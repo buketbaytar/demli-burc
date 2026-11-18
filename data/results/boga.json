@@ -1,0 +1,65 @@
+{
+  "sign": "boga",
+  "variations": [
+    {
+      "variation_id": 1,
+      "archetype": "Pazartesi Diyetisyeni",
+      "trigger_tags": ["yemek", "konforcu"],
+      "text": "Karşımızda bir Boğa var ve diyet onun için bir yaşam tarzı değil, haftalık bir tören. Her pazar akşamı 'Yarından itibaren her şey değişiyor' diyerek bir 'son akşam yemeği' hazırlıyorsun: lahmacun, künefe, bir de 'ne olur ne olmaz' diye cips. Pazartesi sabahı yeşil smoothie içiyorsun, öğlen 'Beyin glikoza ihtiyaç duyar' diyerek börekle teselli buluyorsun. Senin için yemek, 7/24 açık duygusal destek hattı. Bir gün diyet gerçekten başlayacak; ama o gün de büyük ihtimalle bir veda sofrası kurulacak."
+    },
+    {
+      "variation_id": 2,
+      "archetype": "Son Patates Bekçisi",
+      "trigger_tags": ["yemek", "inatci", "kindar"],
+      "text": "Senin tabağın bir yemek alanı değil, egemenlik bölgesi. Biri izinsiz bir patates aldığında yüzündeki ifade, savaş ilan eden bir ülkenin basın açıklamasıyla birebir aynı. Ağzınla 'Al tabii' diyorsun ama gözlerin '2027'ye kadar unutmayacağım' diyor. Paylaşmak senin için bir erdem değil, bir müzakere süreci. Restoranda 'Ortaya alalım' cümlesini duyunca nabzın yükseliyor. Sevgilin seni gerçekten seviyorsa kendi patatesini sipariş eder. Etmiyorsa, ilişkinin geleceği zaten tabakta belli oldu."
+    },
+    {
+      "variation_id": 3,
+      "archetype": "İndirim Avcısı",
+      "trigger_tags": ["para", "yemek"],
+      "text": "Sen bir Boğa'sın ve 'İndirim' kelimesi senin beyninde dopamin değil, doğrudan aidiyet duygusu salgılıyor. Marketten 3 kilo kaju aldın çünkü 'kilosu ucuza geldi'. Kajuyu sevmiyordun bile, ama artık seviyorsun çünkü para verdin. Kilerin bir merkez bankası; 14 paket makarna ve 6 şişe zeytinyağıyla olası bir kıyamete en hazırlıklı insansın. Biri 'Bir tane alabilir miyim?' dediğinde yatırımcı gibi düşünüyorsun: 'Bu kaju bana tanesi kaça geldi?' Arkadaşlık paha biçilemez, ama kaju biçilebilir."
+    },
+    {
+      "variation_id": 4,
+      "archetype": "Konfor Yatırımcısı",
+      "trigger_tags": ["para", "konforcu"],
+      "text": "Senin harcama mantığını ekonomistler çözemiyor: 4.000 TL'lik ortopedik yastığa 'kendime yatırım' diyorsun ama 15 TL kargo ücreti için müşteri hizmetlerini arıyorsun. Kaşmir battaniye 'zorunlu ihtiyaç', 35 TL'lik kahve 'hayat kalitesi', ama arkadaşına 50 TL borç vermek 'bir dakika düşüneyim'. Evin bir ev değil, bir koza. Kanepe vücudunun şeklini almış; kalktığında kanepe üzülüyor. Kapitalizm seni sevmiyor; kapitalizm sana tapıyor."
+    },
+    {
+      "variation_id": 5,
+      "archetype": "Taş Duvar",
+      "trigger_tags": ["inatci", "ofkeli"],
+      "text": "Seni ikna etmeye çalışmak, bir dağa 'Biraz sola kayar mısın?' demeye benziyor. Kibar başlıyorsun, sakin dinliyormuş gibi yapıyorsun, sonra o meşhur 'Hayır'ı söylüyorsun ve bu kelime bir karar değil, anayasa maddesi oluyor. Kızdığında sesin yükselmiyor ama ağırlaşıyor; odadaki hava basıncı değişiyor. Biri seni üçüncü kez ikna etmeye çalışırsa 'Şimdi hiç yapmıyorum' diyorsun. Haklı olman gerekmiyor; sadece haksız olduğunu söylemen gerekmiyor. Yavaşsın ama durdurulamazsın."
+    },
+    {
+      "variation_id": 6,
+      "archetype": "Estetik Mağara Ayısı",
+      "trigger_tags": ["estetik", "konforcu", "titiz"],
+      "text": "Sen dışarı çıkmayan ama evini galeri gibi döşeyen nadir türdensin. Kırlentler 15 derece eğik değilse içinde bir şey kırılıyor; mumların kokusu odaya göre seçilmiş, battaniyeler renk paletine uygun. Ama bu güzelliği kimse görmüyor, çünkü misafir çağırmıyorsun: 'Evim bozulur.' Cumartesi gecen: pijama, iyi bir şarap, loş ışık ve hayatın en büyük kararı olan 'Hangi diziyi açsam?' Senin evine girebilmek için vize başvurusu ve temiz çorap zorunlu."
+    },
+    {
+      "variation_id": 7,
+      "archetype": "Sertifikalı Ev Sahibi",
+      "trigger_tags": ["evcimen", "yemek", "empatik"],
+      "text": "Sen bir Boğa'sın ama içinde bir Anadolu teyzesi yaşıyor. Evine gelen kimse aç çıkamaz; 'Aç değilim' diyen misafire 'Hah, o zaman hafif bir şeyler' deyip 5 çeşit koyuyorsun. Sevgini cümlelerle değil, porsiyonlarla ifade ediyorsun: Arkadaşın üzgünse çorba, ayrıldıysa mantı, terfi aldıysa kuzu tandır. Hayatındaki herkes senin yüzünden 3 kilo aldı ve hiçbiri şikâyetçi değil. Saklama kaplarının yarısı hâlâ başkalarının evinde ve onları geri istemiyorsun; tek şartın 'Dolu getir.'"
+    },
+    {
+      "variation_id": 8,
+      "archetype": "Sessiz Yanardağ",
+      "trigger_tags": ["kiskanc", "soguk", "gizemli"],
+      "text": "Kıskançlığın bir yanardağ gibi: Yüzeyde huzur, içeride 1.200 derece magma. Sevgilin birine gülümsediğinde hiçbir şey demiyorsun, sadece o gece 'Yoruldum' deyip erken yatıyorsun. Ertesi gün 'Hmm, ilginç' cümlesiyle başlayan bir soğuk savaş ilan ediliyor. Sen bir Boğa'sın ve sahiplenme duygun o kadar güçlü ki, en sevdiğin kupayı başkası kullandığında bile ihanete uğramış gibi hissediyorsun. O kişi artık listede. Kupa da."
+    },
+    {
+      "variation_id": 9,
+      "archetype": "Lüks Aşığı",
+      "trigger_tags": ["gosteris", "estetik", "para"],
+      "text": "Zevklerin pahalı, maaşın ise 'zevklerine yetişmeye çalışan bir stajyer'. Bir mekâna girdiğinde menüye değil, ışıklandırmaya ve sandalyenin kumaşına bakıyorsun. Fotoğraflarının arka planında her zaman 'tesadüfen' bir kadeh ya da bir logo beliriyor. Ay sonu bulgur pilavı yiyorsun, ama kristal tabakta. Felsefen basit: 'Az olsun, kaliteli olsun, mümkünse herkes görsün.' Banka hesabın ağlıyor; sen o gözyaşlarını ipek mendille siliyorsun."
+    },
+    {
+      "variation_id": 10,
+      "archetype": "Nostaljik Gurme",
+      "trigger_tags": ["nostaljik", "duygusal", "yemek"],
+      "text": "Yemekle duygu arasındaki köprüyü sen inşa ettin. Babaannenin mercimek çorbasının tadını 3 saniyede hatırlıyorsun ama geçen hafta tanıştığın insanın adını hatırlamıyorsun. Eski fotoğraflara bakıp 'O zamanlar her şey ne güzeldi' diyorsun; aslında bahsettiğin şey fotoğraftaki börek. Sana göre hiçbir restoran 'eski tadı' veremiyor ve bunu garsona açıkça söyleyen nadir müşterisin. Mutfak senin terapistin; kalp kırıklıkların ise tarif defterinde 'Teselli Tatlıları' bölümünde arşivleniyor."
+    }
+  ]
+}

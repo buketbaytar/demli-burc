@@ -1,0 +1,65 @@
+{
+  "sign": "terazi",
+  "variations": [
+    {
+      "variation_id": 1,
+      "archetype": "Menü Filozofu",
+      "trigger_tags": ["kararsiz", "catismadan_kacan"],
+      "text": "Restoranda menüyü 25 dakika okudun, garsona 'Siz ne önerirsiniz?' dedin, sonra önerilmeyeni söyledin. Yemek gelince karşındakinin tabağına bakıp 'Keşke onu alsaydım' dedin. Sen bir Terazi'sin ve her karar senin için bir felsefe sınavı. 'Hangisi daha iyi?' sorusuna cevabın değişmez: 'İkisinin de güzel yanları var.' Arkadaşların seninle film seçmekten vazgeçti; artık seni sadece eşlik etmen için çağırıyorlar ve karar anında telefonu senden uzak tutuyorlar."
+    },
+    {
+      "variation_id": 2,
+      "archetype": "Duş Tartışmacısı",
+      "trigger_tags": ["catismadan_kacan", "kaygili"],
+      "text": "Kavga çıkmasın diye 'Aynen ya, kesinlikle' dedin. Sonra eve gittin, duşa girdin ve o tartışmayı 14 kez kazandın. Her turda daha iyi argümanlar, daha keskin cevaplar, hatta seni alkışlayan hayali bir seyirci. Gerçek hayatta 'Hı hı' dediğin her şeyin duşta bir konferans versiyonu var. Su faturan yüksek, çünkü çözülmemiş tartışmaların uzun sürüyor. Bir gün o duş versiyonunu gerçek hayata taşıyacaksın; büyük ihtimalle o gün de 'Neyse ya, boş ver' diyeceksin."
+    },
+    {
+      "variation_id": 3,
+      "archetype": "İki Taraflı Barış Elçisi",
+      "trigger_tags": ["sosyal", "manipulatif"],
+      "text": "Birbirine düşman iki arkadaşını aynı masada barıştırdın. Nasıl mı? İkisine de ayrı ayrı 'Aslında sen haklısın' dedin. Sen bir Terazi'sin ve diplomasi senin için bir sanat; biraz da illüzyon gösterisi. Herkes seni seviyor, çünkü herkese duymak istediğini söylüyorsun. Uluslararası kuruluşlar seni işe almak istedi ama mülakatta iki tarafa da katıldığın için karar veremediler. Tek sorun şu: Bir gün o iki arkadaş birbiriyle dertleşecek ve o gün şehir değiştirmen gerekebilir."
+    },
+    {
+      "variation_id": 4,
+      "archetype": "İç Mimar Ruhu",
+      "trigger_tags": ["estetik", "titiz"],
+      "text": "Evdeki kırlentin açısı 15 derece bozulursa ruh halin de 15 derece bozuluyor. Sen bir Terazi'sin ve uyum senin için sadece ilişkilerde değil, kırlentlerde de şart. Bir mekâna girdiğinde ilk fark ettiğin şey insanlar değil, perdelerin duvarla uyumsuz tonu. Arkadaşının evinde vazoyu 3 santim sola kaydırdın; kimse fark etmedi ama oda daha güzel oldu. Kaosu sevmiyorsun; özellikle de renk paletine uymayan kaosu."
+    },
+    {
+      "variation_id": 5,
+      "archetype": "'Sen Farklısın' Uzmanı",
+      "trigger_tags": ["romantik", "hayalperest"],
+      "text": "Bütün sevgililerine 'Sen farklısın' dedin ve her seferinde samimiydin. Âşık olmak senin için bir hobi değil, yaşam biçimi. İlk buluşmayı film sahnesi gibi kurguluyorsun: Mum ışığı, doğru şarkı, kusursuz kombin. Sonra ilişkinin gerçek yüzüyle (bulaşık, faturalar, 'Bugün ne yesek?') karşılaşınca hayal kırıklığına uğruyorsun. Ama merak etme, bir sonraki 'farklı' kişi zaten yolda. Sen bir Terazi'sin ve ona da aynı içtenlikle inanacaksın."
+    },
+    {
+      "variation_id": 6,
+      "archetype": "Estetik Influencer",
+      "trigger_tags": ["gosteris", "estetik", "ego"],
+      "text": "Bir mekâna girdiğinde ışığın yüzüne nasıl düştüğünü kontrol edip masayı ona göre seçtin. Sen bir Terazi'sin ve hayatın bir moodboard. Kahve içmeye değil, kahvenin fincanını fotoğraflamaya gidiyorsun. Sabah giydiğin kıyafet günün ruh halini belirliyor ve yanlış ayakkabıyla çıktığın gün 'kötü bir gün' olarak tarihe geçiyor. Güzel olan her şeye bağımlısın; kendi yansımana da itiraz edemiyorsun. Haklısın da."
+    },
+    {
+      "variation_id": 7,
+      "archetype": "Sosyal Bukalemun",
+      "trigger_tags": ["sosyal", "konuskan", "cok_kisilikli"],
+      "text": "Her ortamda farklı bir versiyonsun: İş yerinde 'çok profesyonel', arkadaşlarla 'çok eğlenceli', ailenle 'çok uslu', yeni tanıştıklarınla 'çok derin'. Sen bir Terazi'sin ve herkes seni sevsin diye her ortamın kişiliğine bürünüyorsun. Arkadaş listende her gruptan birileri var; düğününde masa düzeni yapmak bir zirve toplantısı kadar karmaşık olacak. Sorun şu: Bazen kendi fikrinin ne olduğunu bilmiyorsun, çünkü en son kim konuştuysa onunla hemfikirsin."
+    },
+    {
+      "variation_id": 8,
+      "archetype": "Kibar Manipülatör",
+      "trigger_tags": ["manipulatif", "konuskan"],
+      "text": "Seninle tartışan biri 40 dakika sonra kendini sana özür dilerken buluyor ve nasıl olduğunu anlamıyor. Sen bir Terazi'sin; kavgayı sevmezsin ama kaybetmeyi de sevmezsin. Çözümün tatlı dil: 'Haklı olabilirsin, ama şöyle de bakabiliriz...' diye başlayan her konuşma sonunda seni haklı çıkarıyor. Gülümsemen bir silah, nezaketin bir strateji. İnsanlar seninle tartışmayı bıraktı, çünkü kaybettiklerinde bile kendilerini iyi hissediyorlar ve bu çok kafa karıştırıcı."
+    },
+    {
+      "variation_id": 9,
+      "archetype": "Duygusal Terazi",
+      "trigger_tags": ["duygusal", "empatik", "dramatik"],
+      "text": "Hiç tanımadığın insanların düğün videosunda ağladın; bir reklamda yaşlı bir adamın köpeğine sarıldığını görünce hıçkırdın. Başkalarının duygularına karşı fazlasıyla hassassın; bir adaletsizlik gördüğünde içinde son dakika haber bülteni başlıyor. Arkadaşın üzgünse sen ondan daha çok üzülüyorsun ve sonunda o seni teselli ediyor. Romantik filmleri 'mendil skalası'na göre puanlıyorsun. Sen bir Terazi'sin; insanlığın yükünü taşımıyorsun, sadece onun bütün duygusal versiyonlarını bizzat yaşıyorsun."
+    },
+    {
+      "variation_id": 10,
+      "archetype": "Lüks Terazi",
+      "trigger_tags": ["para", "konforcu", "estetik"],
+      "text": "4.000 TL'lik yastığı 'kendime yatırım' olarak gördün, çünkü güzel uyumak senin için bir insan hakkı. Estetikten taviz vermek senin için ahlaki bir mesele. Ay sonunda bulgur yiyorsun ama keten peçeteyle. Alışveriş sepetin 'Şimdi değil, belki indirime girer' ürünleriyle dolu ve hepsi pastel tonlarda. Sen bir Terazi'sin; paranın mutluluk getirmediğini biliyorsun, ama güzel bir mumun getirdiği huzuru da kimse inkâr edemez."
+    }
+  ]
+}

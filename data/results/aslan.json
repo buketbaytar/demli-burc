@@ -1,0 +1,65 @@
+{
+  "sign": "aslan",
+  "variations": [
+    {
+      "variation_id": 1,
+      "archetype": "'Benim Haftam' CEO'su",
+      "trigger_tags": ["ego", "gosteris", "dramatik"],
+      "text": "Doğum günün bir gün değil, bir festival. Adı 'Benim Haftam', katılım zorunlu, kıyafet kodu belirlenmiş: Pazartesi brunch, çarşamba kokteyl, cumartesi büyük gala. Hediye getirmeyenlerin listesi tutuluyor. Sen bir Aslan'sın ve hayat senin için bir sahne değil; zaten sahne sensin, geri kalan her şey dekor. Bir ortamda ilgi senin üzerinde değilse onu bir anekdotla, bir kahkahayla ya da gerekirse dramatik bir bayılmayla geri alıyorsun. Güneş sistemi seni merkeze almadığı için hâlâ kırgınsın."
+    },
+    {
+      "variation_id": 2,
+      "archetype": "Işık Avcısı",
+      "trigger_tags": ["estetik", "gosteris"],
+      "text": "Bir mekâna girdiğinde ilk yaptığın şey ışığın yüzüne nasıl düştüğünü kontrol etmek. Masa buna göre seçilir, menüye sonra bakılır. 'Altın saat' senin için bir fotoğrafçılık terimi değil, kişisel saat dilimin. Telefonunda 'İyi Açılar' adlı bir albüm var ve sağ profilin neredeyse tescilli. Arkadaşların seninle fotoğraf çekilmekten çekiniyor, çünkü 47. karede bile 'Bir daha, gözümü kırptım' diyorsun. Aynalar seni gördüğünde biraz daha parlıyor; sen de onlara teşekkür ediyorsun."
+    },
+    {
+      "variation_id": 3,
+      "archetype": "37.2 Trajedi Oyuncusu",
+      "trigger_tags": ["dramatik", "magdur"],
+      "text": "Hafif bir soğuk algınlığı geçirdiğinde bir Shakespeare tragedyası sahneleniyor. 37.2 ateşle yatağa uzanıp vasiyetini yazdırıyor, kimin seni aramadığını not ediyor ve 'Bugün çok zor bir gündü' hikâyesi atıyorsun (ilaç kutusu fotoğrafıyla, filtreli). Sen bir Aslan'sın ve acı çekmek bile seyircisiz olmaz. 'Ben iyiyim, merak etmeyin' diyorsun ama bu cümleyi 14 kişiye ayrı ayrı yazıyorsun. Ertesi gün iyileşip 'Ölümden döndüm' temalı bir dönüş kahvaltısı düzenliyorsun."
+    },
+    {
+      "variation_id": 4,
+      "archetype": "Doğal Lider (Kendine Göre)",
+      "trigger_tags": ["liderlik", "sabirsiz"],
+      "text": "Kimse seni lider seçmedi ama aslanlar seçilmez, doğar. Grup projesinde, tatil planında, hatta arkadaşının düğün organizasyonunda bile kendini otomatik olarak yönetici ilan ediyorsun. 'Ben bir fikir atayım' diye başlayıp 20 dakikalık vizyon sunumu yapıyorsun. Başkalarının fikirlerini dinliyorsun; kendi fikrine dönüştürmek için. Sabırsızlığın bile kraliyet usulü: 'Hadi arkadaşlar' demiyorsun, 'Bekliyorum' diyorsun. İnsanlar seni takip ediyor, çünkü alternatifi sen kükrerken itiraz etmek."
+    },
+    {
+      "variation_id": 5,
+      "archetype": "LinkedIn Aslanı",
+      "trigger_tags": ["isk", "hirsli", "gosteris"],
+      "text": "Pazar sabahı ofise gittin; peki kimse bilmezse ne anlamı var? Bu yüzden LinkedIn'e 'Pazar sabahı motivasyonu ☀️ Başarı hafta sonu tanımaz' yazdın. Başarıların senin için bir kupa değil, bir vitrin. Terfi aldığında seni ilk tebrik eden annen değil, 247 beğeni oluyor. Çalışkanlığını görünmez bırakmak senin için fiziksel olarak imkânsız. CV'n bir belge değil, bir otobiyografi. Bir gün emekli olacaksın ve emeklilik partin muhtemelen sahneli bir konferans formatında olacak."
+    },
+    {
+      "variation_id": 6,
+      "archetype": "Romantik Komedi Başrolü",
+      "trigger_tags": ["romantik", "hayalperest", "dramatik"],
+      "text": "Hayatını bir romantik komedi gibi yaşıyorsun ve başrol tartışmaya kapalı. Yağmurda yürürken kafandaki film müziği çalıyor, otobüs camına yaslanıp 'Bir gün o gelecek' bakışı atıyorsun. Her ilişkin bir sezon finali gibi bitiyor: Gözyaşı, son konuşma, kapı aralığından geri dönüş. Sen bir Aslan'sın ve aşkta bile ilgi odağı olmak istiyorsun; sevgilinin seni sevmesi yetmez, herkesin bunu görmesi lazım. Evlilik teklifi flash mob'suz gelirse bu ilişkiye yeterince ciddi yaklaşılmamış demektir."
+    },
+    {
+      "variation_id": 7,
+      "archetype": "Kraliyet Kükremesi",
+      "trigger_tags": ["ofkeli", "inatci", "rekabetci"],
+      "text": "Bir tartışmada haksız olduğun kanıtlanırsa ne yapıyorsun? Sesini yükseltiyorsun. Hâlâ haksız mısın? Daha yüksek. Hâlâ mı? Kapı. Sen bir Aslan'sın ve krallar özür dilemez; olsa olsa 'Herkes biraz gergindi' diye saray açıklaması yayınlar. Masa oyunlarında kaybettiğinde 'Bu oyun zaten saçma' diyorsun ve o oyun bir daha oynanmıyor. Emlak oyunu senin yüzünden arkadaş grubunda yasaklandı. Gururun o kadar büyük ki gölgen bile senden önce yürümeye cesaret edemiyor."
+    },
+    {
+      "variation_id": 8,
+      "archetype": "Alınan Majeste",
+      "trigger_tags": ["alingan", "ego", "magdur"],
+      "text": "Bir mekâna girdin ve kimse 'Vay!' demedi. Bu senin için açık bir hakaret. Arkadaşın doğum gününü 1 saat geç kutladı; bu bir diplomatik kriz. Egon kristal bir taç gibi: Parlak, büyük ve çok kolay çizilen. Alındığında bunu doğrudan söylemiyorsun; 'Değerini bilmeyenlere...' temalı bir hikâye atıyorsun. Ego yaraların, başkalarının kalp kırıklıklarından daha uzun sürüyor. İlgi göremediğinde sönmüyorsun; sadece bir sonraki büyük girişini planlıyorsun."
+    },
+    {
+      "variation_id": 9,
+      "archetype": "47 Kare Sendromu",
+      "trigger_tags": ["kararsiz", "estetik", "gosteris"],
+      "text": "Bir selfie için 47 kare çektin, 40 dakika inceledin, 3 arkadaşına sordun ve sonunda... ilkini paylaştın. Sen bir Aslan'sın ama içinde kararsız bir Terazi asistan çalışıyor. Fotoğrafın filtresini seçmek, bazı insanların ev seçmesinden daha uzun sürüyor. Açıklamaya 6 farklı cümle yazıp sildin ve sonunda sadece bir güneş emojisi koydun. Paylaştıktan sonraki 10 dakika telefona bakmadığını iddia ediyorsun, ama beğeni sayısını saniye saniye ezbere biliyorsun."
+    },
+    {
+      "variation_id": 10,
+      "archetype": "Yarışma Programı Sunucusu",
+      "trigger_tags": ["rekabetci", "ego"],
+      "text": "Hayat senin için bir yarışma programı ve sen hem yarışmacı, hem jüri, hem de sunucusun. Kırmızı ışıkta yanındaki arabayla yarışıyor, spor salonunda yan koşu bandındakini geçmeye çalışıyor, düğünlerde 'en iyi dans eden' unvanını kimseye bırakmıyorsun. Kaybettiğinde 'Ben zaten ciddi oynamıyordum' diyorsun; kazandığında ise ödül töreni düzenliyorsun, konuşmalı. Sen bir Aslan'sın: Birinci olmak senin için bir hedef değil, fabrika ayarı."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sign": "yay",
+  "variations": [
+    {
+      "variation_id": 1,
+      "archetype": "Tek Yön Bali Bileti",
+      "trigger_tags": ["maceraci", "durtusel"],
+      "text": "Sabah 'Kafam dinlensin' diye köy kahvaltısına gittin, akşam Bali'ye tek yön bilet bakarken bulundun. Sen bir Yay'sın ve senin için 'hafta sonu planı' kıta değiştirmek demek. Bavulun hep yarı hazır, pasaportun çantanda; gece 23:00'teki 'Kalkın gidiyoruz' teklifine 'Nereye?' diye sormadan 'Tamam' diyorsun. Hayatında hiç 'Ya olmazsa?' diye düşünmedin; sadece 'Ya olursa?' deyip uçağa bindin. Banka hesabın ağlıyor ama fotoğraf galerin kahkahalarla gülüyor."
+    },
+    {
+      "variation_id": 2,
+      "archetype": "Nepal Kaçkını",
+      "trigger_tags": ["ozgurlukcu", "kacis"],
+      "text": "İlişki ciddileşmeye başlayınca bir anda 'Kendimi bulmam lazım' dedin ve Nepal'e gittin (Wi-Fi'lı hostel, tabii ki). Bağlanmak sana kapısı kilitli bir oda gibi geliyor; 'biz' kelimesi telaffuz edildiğinde beyninde yangın alarmı çalıyor. Kendini bulmak için 14 ülke gezdin, hâlâ bulamadın ama çok güzel fotoğraflar çektin. Sen bir Yay'sın. Bir gün yerleşmeyi düşünüyorsun; muhtemelen bir karavana, yine de tekerlekleri olsun diye."
+    },
+    {
+      "variation_id": 3,
+      "archetype": "Filtresiz Ok",
+      "trigger_tags": ["patavatsiz", "bilgic"],
+      "text": "Kimse sormadı ama sen söyledin: 'Bence o adamla boşuna vakit kaybediyorsun.' Ve en kötüsü, haklısın. Sen bir Yay'sın ve dürüstlüğün bir ok gibi: Hızlı, keskin ve genellikle tam kalbe saplanıyor. 'Ben sadece doğruyu söylüyorum' diyorsun; doğru, ama bu doğruları taziyede, düğünde ya da birinin doğum gününde söylemek zorunda değilsin. Arkadaşların sana fikir sormadan önce kendilerini psikolojik olarak hazırlıyor. Ateş gibisin; ısıtıyorsun ama dikkat etmeyeni de yakıyorsun."
+    },
+    {
+      "variation_id": 4,
+      "archetype": "Gece Filozofu",
+      "trigger_tags": ["filozof", "hayalperest", "konuskan"],
+      "text": "Gece 03:00'te evrenin anlamı üzerine 11 dakikalık sesli mesaj attın. Gece yarısı, senin felsefe bölümünün açıldığı saat. 'Ya her şey bir rüyaysa?', 'Özgür irade gerçekten var mı?', 'Kediler bize neden öyle bakıyor?' soruları dönerken uyumak imkânsız. Bir sohbeti asla yüzeyde bırakmıyorsun; biri 'Nasılsın?' diye sorduğunda 'Önce iyi kavramını tanımlayalım' diye başlıyorsun. Sen bir Yay'sın. Antik filozoflar seni severdi; ama sabah 9'da, kahvelerini içerken değil."
+    },
+    {
+      "variation_id": 5,
+      "archetype": "Son Dakika Yay'ı",
+      "trigger_tags": ["sorumsuz", "sosyal", "durtusel"],
+      "text": "Planları son dakika iptal ediyorsun; ama son dakika plan yapılırsa ilk sen geliyorsun. Takvim senin için bir öneri listesi. 3 hafta önceden konuşulmuş bir akşam yemeği seni boğuyor, ama 'Hadi şimdi denize gidelim' teklifi seni uçuruyor. Arkadaşların artık sana planları değil, sürprizleri haber veriyor. Sen bir Yay'sın; 'sorumluluk' kelimesini sevmiyorsun ama eğlence söz konusu olunca inanılmaz sorumlusun: Kimse müziği ve atıştırmalıkları senden iyi organize edemez."
+    },
+    {
+      "variation_id": 6,
+      "archetype": "Gezgin Ansiklopedi",
+      "trigger_tags": ["bilgic", "konuskan"],
+      "text": "Sohbete 'Bu arada şunu biliyor muydunuz?' diye giriyorsun ve sonraki 40 dakika boyunca Moğol İmparatorluğu'ndan kuantum fiziğine, oradan Peru'daki bir kahve çiftliğine uzanıyorsun. Bilgi senin için bir pasaport. Gezdiğin her ülkeden bir anekdot, okuduğun her kitaptan bir 'Aslında öyle değil' çıkarıyorsun. Sen bir Yay'sın; bilgiçliğin kibirden değil, heyecandan geliyor. Ama sonuç aynı: Kimse senin karşında 'Ben biliyorum' diyemiyor."
+    },
+    {
+      "variation_id": 7,
+      "archetype": "Kendi Yolunun Yolcusu",
+      "trigger_tags": ["aykiri", "ozgurlukcu"],
+      "text": "'Yap' dendiğinde yapmıyorsun; 'Sakın yapma' dendiğinde üç kat hızla yapıyorsun. Kurallar senin için bir öneri, sınırlar ise bir meydan okuma. Ailenin 'Güvenli bir meslek seç' tavsiyesine cevabın dağcılık rehberliği oldu. Herkes bir yöne gidiyorsa sen tam tersine gidiyorsun, çünkü 'orada daha az insan var'. Sen bir Yay'sın ve özgürlük senin oksijenin. Kim o oksijeni kısmaya çalışırsa, sen çoktan başka bir şehirde yeni bir hayata başlamış oluyorsun."
+    },
+    {
+      "variation_id": 8,
+      "archetype": "Yaz Fırtınası",
+      "trigger_tags": ["ofkeli", "patavatsiz"],
+      "text": "Sinirlendiğinde 10 saniyede patlıyor, aklından geçen her şeyi filtresiz söylüyor, sonra 11. saniyede 'Ne oldu ki ya?' diyorsun. Öfken bir yaz fırtınası gibi: Ani, gürültülü ve kısa süreli. Problem şu: Senin için 11 saniye geçti, karşındaki için 3 haftalık bir terapi süreci başladı. Kin tutmak senin için fazla yorucu; sen zaten bir sonraki maceraya geçtin. Sen bir Yay'sın; ama senin unutman, karşındakinin de unuttuğu anlamına gelmiyor."
+    },
+    {
+      "variation_id": 9,
+      "archetype": "Açık Büfe Kâşifi",
+      "trigger_tags": ["cok_kisilikli", "durtusel"],
+      "text": "Aynı anda 23 sekme, 4 dizi, 3 hobi ve 2 yarım podcast projesi yürütüyorsun. Merakın sınırsız: Geçen ay dalış, bu ay seramik, gelecek ay Moğolistan'da at üstünde okçuluk. Her hobi için ciddi ekipman yatırımı yaptın ve evinin bir köşesi 'terk edilmiş tutkular' müzesine dönüştü. Sen bir Yay'sın; dağınık değilsin, hayatın her lezzetinden bir kaşık almak isteyen bir açık büfe misafirisin. Tabağın taşıyor ama gözün hâlâ tatlı bölümünde."
+    },
+    {
+      "variation_id": 10,
+      "archetype": "Ralli Pilotu",
+      "trigger_tags": ["rekabetci", "sabirsiz"],
+      "text": "Kırmızı ışıkta yanındaki arabayla göz göze gelip içinden drag yarışı başlattın. Hayat senin için bir yarış bile değil, bir ralli. Doğa yürüyüşünde rehberin önünde, havalimanında güvenlik sırasında 'en hızlı kim geçer' yarışında birincisin. Beklemek senin için cezalandırılmak demek; trafikte 'Bu yolu kısaltırım' diye 40 dakikalık kestirmeler deniyorsun. Sen bir Yay'sın: Kaybolsan bile, en hızlı kaybolan sen oluyorsun."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sign": "akrep",
+  "variations": [
+    {
+      "variation_id": 1,
+      "archetype": "Arşiv Müdürü",
+      "trigger_tags": ["kindar", "sistemli"],
+      "text": "Vay canına, karşımızda tam teçhizatlı bir Akrep var! Kinini Excel tablosunda tarih ve saate göre tutuyorsun; pivot tablosu, filtreler, hatta 'tekrar suç işleyenler' için koşullu biçimlendirme bile var. 2014'te biri doğum gününü unuttuysa bu senin için bir 'arşiv' değil, 'aktif dosya'. Affediyorsun ama silmiyorsun; sadece 'Beklemede' sekmesine taşıyorsun. FBI'ın işe alım mülakatlarındaki soruları sen hazırlıyor olmalısın. Seninle tartışmaya girecek olanlara tavsiyemiz: Önce avukatınızla görüşün."
+    },
+    {
+      "variation_id": 2,
+      "archetype": "FBI Stajyeri",
+      "trigger_tags": ["stalker", "kiskanc"],
+      "text": "Eski sevgilinin yeni sevgilisinin kuzeninin 2016 düğün albümüne kadar indin ve tek bir yanlış beğeni yapmadın. Bu bir yetenek değil, bir siber operasyon. Kıskançlığın bir duygu değil, bir istihbarat birimi. Yeni biriyle tanıştığında ilk 24 saat içinde onun lise mezuniyet fotoğrafına, annesinin pasta tarifine ve 2011'deki paylaşımlarına ulaşıyorsun. 'Sadece merak ettim' diyorsun. Biz de merak ediyoruz: Bu yeteneklerini neden hâlâ devlet için kullanmıyorsun?"
+    },
+    {
+      "variation_id": 3,
+      "archetype": "Sessizlik Orucu",
+      "trigger_tags": ["kiskanc", "soguk", "gizemli"],
+      "text": "Kıskandığını asla belli etmiyorsun. Sadece 'Hmm, ilginç' diyorsun ve 3 günlük bir sessizlik orucuna giriyorsun. O 3 gün boyunca karşındaki ne yaptığını anlamak için bütün hayatını gözden geçiriyor. Sen bir Akrep'sin ve sessizliğin bir çığlıktan daha yüksek. 'Kızgın değilim' derkenki ses tonun Antarktika'yı ikinci kez dondurabilir. Dışarıdan sakin, içeriden 'Bu hikâyenin sonunu ben yazacağım' modundasın. En korkutucu tarafın şu: Gülümsediğinde bile kimse kendini güvende hissetmiyor."
+    },
+    {
+      "variation_id": 4,
+      "archetype": "Gölge Gözlemci",
+      "trigger_tags": ["gizemli", "stalker"],
+      "text": "Partide köşeye çekilip herkesi gözlemledin, 3 kişinin gizli ilişkisini çözdün ve kimseye söylemedin. Neden? Çünkü bilgi Akrep için bir para birimidir; harcanmaz, biriktirilir. İnsanlar seninle 10 yıldır arkadaş ama hakkında bildikleri tek şey en sevdiğin rengin siyah olduğu (o da tahmin). Sen herkesin sırrını biliyorsun, kimse seninkini bilmiyor. Hatta bazen sen bile kendi sırlarını bilmiyorsun; o kadar derine gömmüşsün ki kazı izni gerekiyor."
+    },
+    {
+      "variation_id": 5,
+      "archetype": "Satranç Ustası",
+      "trigger_tags": ["manipulatif", "konuskan"],
+      "text": "Sen bir Akrep'sin ama o kadar derinden ilerliyorsun ki, kendi duygularını bile manipüle edebiliyorsun. Bir tartışmayı kaybedeceğini anladığında konuyu 40 dakika döndürüyorsun ve sonunda karşı taraf senden özür diliyor. Sen satranç oynamıyorsun; satranç tahtasını yeniden tasarlıyorsun. İnsanlar seninle konuştuktan sonra 'Ben aslında neyi savunuyordum?' diye düşünüyor. Psikoloji kitapları senin yöntemlerini 'ileri düzey' bölümüne koymuş; sen o bölümü de baştan yazıyorsun."
+    },
+    {
+      "variation_id": 6,
+      "archetype": "Gece Yarısı Dalgıcı",
+      "trigger_tags": ["duygusal", "stalker", "dramatik"],
+      "text": "Dışarıdan kaya gibi, içeriden okyanus. Gece yarısı ağlarken eski sevgiliyi stalklıyorsun, ama bunun bile karanlık bir estetiği var: Mum ışığı, hüzünlü bir şarkı ve çözmeye çalıştığın bir bulmaca. Duyguların sığ değil, Mariana Çukuru kadar derin. Sabah hiçbir şey olmamış gibi siyah kahveni içip 'Geçmiş geçmişte kaldı' diyorsun. Kalmadı. Bir klasörde, şifreli olarak duruyor. Sen bir Akrep'sin; gözyaşların bile gizli dosya statüsünde."
+    },
+    {
+      "variation_id": 7,
+      "archetype": "Kaju Akrebi",
+      "trigger_tags": ["inatci", "yemek", "kindar"],
+      "text": "Tabağındaki son patatese izinsiz dokunulduğunda herkes olayın kapandığını düşündü. Ama sen not aldın. Sen bir Akrep'sin ve sahiplenme duygun bir Boğa'yı bile kıskandırır. Yemek paylaşımı senin için bir güven testi; testi geçemeyenler bir sonraki pizzaya davet edilmiyor. 'Bir dilim alabilir miyim?' sorusuna 'Tabii' diyorsun ama gözlerin '2029'a kadar sana çatal yok' diyor. Ve inan bize, hatırlayacaksın. Akrepler unutmaz; intikamı soğuk, yemeği sıcak servis ederler."
+    },
+    {
+      "variation_id": 8,
+      "archetype": "Karanlık Underground",
+      "trigger_tags": ["aykiri", "ego"],
+      "text": "Herkes bir şeyi sevdiği an ondan soğuyorsun: 'Ben onu 400 dinlenmesi varken keşfetmiştim.' Sen bir Akrep'sin ve popüler olan her şey senin için şüpheli. Gardırobun siyah, çalma listen kimsenin bilmediği gruplardan, film önerilerin 'Biraz ağır ama değer' kategorisinde. Ana akımla arana mesafe koyuyorsun, çünkü sana göre derinlik kalabalığın bittiği yerde başlar. Gizemini koru; ama şunu bil: Bir gün sen de ana akım olacaksın ve o gün çok bozulacaksın."
+    },
+    {
+      "variation_id": 9,
+      "archetype": "Uzun Vadeli Rövanşçı",
+      "trigger_tags": ["hirsli", "sistemli", "kindar"],
+      "text": "Lisede seni küçümseyen o kişi mi? 15 yıl sonra mezunlar buluşmasına onun patronu olarak gitmeyi planlıyorsun. Ve plan tıkır tıkır işliyor. Sen bir Akrep'sin ve başarı senin için bir kariyer hedefi değil, uzun vadeli bir rövanş maçı. 5 yıllık planın var; ikinci sayfasının başlığı 'Onlara Göstereceğim'. Hırsın bir yanardağ gibi: Sessiz, sabırlı, ama patladığında sonuçları jeolojik. En tatlı tarafı: Asla 'intikam' demiyorsun, sadece 'motivasyon' diyorsun."
+    },
+    {
+      "variation_id": 10,
+      "archetype": "Çift Taraflı Ajan",
+      "trigger_tags": ["sosyal", "manipulatif", "catismadan_kacan"],
+      "text": "Birbirine düşman iki arkadaşını barıştırdın; ama asıl amaç barış değildi, iki taraftan da bilgi toplamaktı. Sen bir Akrep'sin ve sosyal ilişkiler senin için bir istihbarat ağı. Herkesle aran iyi, herkesin sırrı sende, herkes seni 'en güvendiği kişi' olarak görüyor. Doğrudan çatışmaya girmiyorsun, çünkü çatışma kartları açık oynamak demek. Sen kartlarını hiç göstermeyen bir pokercisin: Herkes kaybediyor ama kimse nasıl olduğunu anlamıyor."
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Satır sonlarını her ortamda LF tut (Windows/Mac/Linux + GitHub Actions)
+* text=auto eol=lf
+*.png binary

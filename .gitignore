@@ -1,0 +1,34 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+imgenv/
+.pytest_cache/
+
+# --- Node ---
+node_modules/
+npm-debug.log*
+
+# --- Gizli / yerel ayarlar (asla yükleme) ---
+.env
+.env.*
+*.pem
+*.key
+.netlify/
+.vercel/
+
+# --- Editör ve işletim sistemi ---
+.vscode/
+.idea/
+.claude/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Geçici dosyalar ---
+*.log
+*.tmp
+parity_*.json

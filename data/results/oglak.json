@@ -1,0 +1,65 @@
+{
+  "sign": "oglak",
+  "variations": [
+    {
+      "variation_id": 1,
+      "archetype": "Pazar Sabahı Ofiste",
+      "trigger_tags": ["isk", "gosteris"],
+      "text": "LinkedIn'de 'Pazar sabahı motivasyonu' paylaştın; pazar sabahı ofistesin. Sen bir Oğlak'sın ve dinlenmek senin için bir lüks değil, 'zaman kaybı'. Tatilde bile e-postalarını kontrol ediyorsun ve otomatik yanıt mesajın 'Ama acil ise aramaktan çekinmeyin' diye bitiyor. Başarının görünür olması gerekmiyor, ama LinkedIn'de görünmezse de olmaz. Bir gün emekli olacaksın ve emekliliğinde de büyük ihtimalle bir danışmanlık şirketi kuracaksın."
+    },
+    {
+      "variation_id": 2,
+      "archetype": "B Planı Klasörü",
+      "trigger_tags": ["sistemli", "hirsli"],
+      "text": "5 yıllık hayat planın var; 10 yıllık planın taslağı da 'B planı (final)(son)(GERÇEK SON)' klasöründe bekliyor. Hayat senin için bir satranç oyunu; her hamle 3 adım önceden hesaplanmış. Evlilik, kariyer, emeklilik: Hepsinin bir Excel dosyası var. Spontane olmak senin için 'planlanmamış risk'. 25 yaşındayken 50 yaşındaki halinin emeklilik fonunu hesaplamaya başladın. Sen bir Oğlak'sın; çevrendekiler hırsını görünce ya ilham alıyor ya da kendilerini yorgun hissedip uzanıyor."
+    },
+    {
+      "variation_id": 3,
+      "archetype": "Not Aldım, Dönüş Yapacağım",
+      "trigger_tags": ["soguk", "sistemli"],
+      "text": "Biri sana duygularını açtığında 'Tamam, not aldım, geri dönüş yapacağım' dedin. Duygular senin için toplantı gündeminin en altındaki 'diğer konular' maddesi. Ağlayan arkadaşına mendil uzatıyorsun, ama sarılmadan önce takvimini kontrol ediyorsun. Kalbin var; şifreli bir kasada duruyor ve şifreyi sadece 3 kişi biliyor (biri annen). Sen bir Oğlak'sın; için dışın kadar soğuk değil, sadece duyguların bir onay sürecinden geçmeden dışarı çıkamıyor."
+    },
+    {
+      "variation_id": 4,
+      "archetype": "Geçmiş Halinin Rakibi",
+      "trigger_tags": ["rekabetci", "hirsli"],
+      "text": "Kendine rakip bulamayınca geçen yılki halinle yarışıyorsun ve onu da yeniyorsun. Dağın tepesine ulaşmak senin için bir hedef değil, başlangıç noktası; bir sonraki dağ zaten takvimde. Başkalarının başarılarına 'Tebrikler' diyorsun ama içinden 'Ben de yaparım, hem de daha iyisini' diye geçiriyorsun. Sen bir Oğlak'sın; doğum gününde mum üflerken dilek tutmuyorsun, çeyrek dönem hedeflerini gözden geçiriyorsun."
+    },
+    {
+      "variation_id": 5,
+      "archetype": "Kendini Atamış Müdür",
+      "trigger_tags": ["liderlik", "sabirsiz"],
+      "text": "Grup projesinde kimse sormadan WhatsApp grubunu kurdun, görev dağıttın ve teslim tarihini 3 gün öne çektin ('tampon süre'). Sorumluluk senin için bir yük değil, doğal bir hak. İşleri başkasına bırakmak sana fiziksel acı veriyor, çünkü 'Ben yaparsam daha hızlı ve doğru olur.' Sorun şu ki haklısın. Sen bir Oğlak'sın; ekibin senin 'Sadece bir öneri' diye başlayan mesajlarından korkuyor, çünkü o öneriler aslında yönetmelik."
+    },
+    {
+      "variation_id": 6,
+      "archetype": "Bütçe Komutanı",
+      "trigger_tags": ["para", "inatci"],
+      "text": "İndirimde diye 3 kilo kaju aldın ve bunu 'stratejik stok' olarak adlandırdın. Para senin için bir araç değil, bir güvenlik sistemi. Her harcamanın bir gerekçesi var; restoranda hesap bölünürken 'Ben çorba içmedim' diye hesap makinesini açıyorsun. Bütçe uygulamandaki kategoriler ruh halini de yansıtıyor: 'Gereksiz', 'Kendime Ödül (Reddedildi)', 'Acil Durum'. Sen bir Oğlak'sın; zenginlik senin için gösteriş değil, huzur. O huzur da kasada kilitli duruyor."
+    },
+    {
+      "variation_id": 7,
+      "archetype": "Buzdan Arşiv",
+      "trigger_tags": ["kindar", "soguk"],
+      "text": "'Kızgın değilim' diyorsun ve ses tonun Antarktika'yı ikinci kez donduruyor. Kinini duygusal patlamalarla değil, profesyonel bir sessizlikle tutuyorsun. Seni hayal kırıklığına uğratan kişiyle hâlâ konuşuyorsun; ama 'Merhaba' ve 'Kolay gelsin' dışında tek kelime yok. Affetmenin bir prosedürü var: Başvuru, değerlendirme, 6 ay bekleme süresi. Çoğu insan süreci tamamlayamıyor. Sen bir Oğlak'sın; soğukluğun bir duvar değil, bir kariyer stratejisi."
+    },
+    {
+      "variation_id": 8,
+      "archetype": "Kalite Kontrol Müdürü",
+      "trigger_tags": ["elestirel", "titiz", "bilgic"],
+      "text": "Bir metindeki ayrı yazılmamış 'de' yüzünden yazana olan saygını %40 kaybettin. Standartların Everest'ten yüksek. Arkadaşlarının sunumlarını 'Biraz fikir vereyim' diye okuyup 47 düzeltmeyle geri gönderiyorsun. Bulaşık makinesi bile senin denetimine tabi. 'Mükemmeliyetçi değilim, sadece işler doğru yapılsın istiyorum' dediğinde herkes derin bir nefes alıyor. Sen bir Oğlak'sın; patron değilsin, ama seninle çalışan herkes öyle hissediyor."
+    },
+    {
+      "variation_id": 9,
+      "archetype": "Soğuk Satranççı",
+      "trigger_tags": ["kiskanc", "gizemli", "hirsli"],
+      "text": "Kıskandığında belli etmiyorsun; sadece 'Hmm, ilginç' diyorsun ve 3 gün içinde o kişiden daha iyi bir pozisyona gelmek için strateji kuruyorsun. Kıskançlık senin için yakıt. İş arkadaşın terfi mi aldı? Tebrik ediyorsun, sonra gece yarısı 2 sertifika programına kaydoluyorsun. Duygularını göstermiyorsun, çünkü duygu rakibe verilmiş bir ipucu. Sen bir Oğlak'sın: Dışarıdan sakin bir göl, içeride ise bir yatırım fonu yönetiliyor."
+    },
+    {
+      "variation_id": 10,
+      "archetype": "Statü Koleksiyoncusu",
+      "trigger_tags": ["gosteris", "para", "hirsli"],
+      "text": "Senin için başarı kartvizitteki unvanla başlıyor. Saat seçerken ilk baktığın şey saatin ne gösterdiği değil, ne söylediği. LinkedIn profilin bir müze, araban bir beyanname, kahve siparişin bile 'Bunu bilen içer' tonunda. Gösteriş yapmıyorsun, sadece 'emeğinin karşılığını sergiliyorsun'. Sen bir Oğlak'sın; mezunlar buluşmasına gitmenin tek sebebi 'Ne iş yapıyorsun?' sorusunu cevaplamak. Ve cevabın her seferinde 2 dakika sürüyor."
+    }
+  ]
+}

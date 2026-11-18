@@ -1,0 +1,65 @@
+{
+  "sign": "balik",
+  "variations": [
+    {
+      "variation_id": 1,
+      "archetype": "Yabancı Düğün Ağlayanı",
+      "trigger_tags": ["duygusal", "empatik"],
+      "text": "Hiç tanımadığın insanların düğün videosunda hüngür hüngür ağladın. Sonra bir köpek maması reklamında ağladın. Sonra ağladığın için ağladın. Sen bir Balık'sın ve duyguların bir okyanus değil; Pasifik, Atlantik ve Hint Okyanusu'nun ortak girişimi. Birinin üzgün olduğunu 3 kilometre öteden hissediyor, onu teselli etmek için önce sen üzülüyorsun. Empati senin süper gücün; ama bu süper güç seni her film sonunda bir paket mendile mahkûm ediyor."
+    },
+    {
+      "variation_id": 2,
+      "archetype": "Kendi Filminin Yönetmeni",
+      "trigger_tags": ["hayalperest", "romantik", "dramatik"],
+      "text": "Otobüs camına yaslanıp yağmuru izlerken kafandaki filmin arka plan müziğini kendin seçiyorsun. Hayatın bir sanat filmi: Ağır çekim, melankolik renkler ve her sahnede başrol sen. Markete giderken bile bir video klip senaryosu yaşıyorsun. Sevdiğin birinden mesaj beklerken 4 farklı son yazıyorsun; gerçek son genellikle hiçbirine benzemiyor. Sen bir Balık'sın. Olsun; senin versiyonun her zaman daha güzel, müziği de daha iyi."
+    },
+    {
+      "variation_id": 3,
+      "archetype": "Evrenden İşaret Bekleyen",
+      "trigger_tags": ["kacis", "sorumsuz", "hayalperest"],
+      "text": "Sorumluluktan kaçmak için 'Evren bana henüz işaret göndermedi' diyorsun. Fatura ödemek mi? 'Merkür retrosunda imza atmam.' İş başvurusu mu? 'Enerjiyi hissetmedim.' Gerçeklik senin için bir öneri, hayal dünyan ise kayıtlı ikametgâhın. Sen bir Balık'sın; o işaret bir gün gelecek, muhtemelen son ödeme tarihi geçmiş bir fatura şeklinde. Ama sen onu da 'Evren bana bir ders veriyor' diye yorumlayacaksın."
+    },
+    {
+      "variation_id": 4,
+      "archetype": "'Sen Farklısın' Gönüllüsü",
+      "trigger_tags": ["romantik", "hayalperest"],
+      "text": "Bütün sevgililerine 'Sen farklısın' dedin ve her seferinde gerçekten inandın. Aşkta hayal kırıklığı senin için bir son değil, bir sonraki romantik fantezinin fragmanı. Kırmızı bayrakları görüyorsun ama 'Aslında pembe, ışık öyle vuruyor' diye yorumluyorsun. Herkesin iyi bir tarafı olduğuna inanıyorsun; güzel bir özellik, ama eski sevgililerin listesi buna pek katılmıyor. Sen bir Balık'sın; aşkın kendisine âşıksın, karşındaki sadece o hikâyenin oyuncusu."
+    },
+    {
+      "variation_id": 5,
+      "archetype": "Ücretsiz Terapist",
+      "trigger_tags": ["empatik", "magdur", "kindar"],
+      "text": "Herkesin derdini dinliyorsun: Gece 2'de arayan arkadaşın, ayrılık acısı çeken iş arkadaşın, hatta otobüste yanına oturan yabancı. Ama kimse senin derdini sormuyor ve sen bunu kimseye söylemiyorsun; sadece içten içe 'Kimse beni anlamıyor' adlı bir şarkı besteliyorsun. Sen bir Balık'sın ve vermek senin için hem lütuf hem lanet. Seans ücreti almıyorsun ama zihinsel hesabında herkesin bir borcu var. Ve bu borçlar faizsiz değil."
+    },
+    {
+      "variation_id": 6,
+      "archetype": "Pijamalı Konser Seyircisi",
+      "trigger_tags": ["konforcu", "kacis"],
+      "text": "Bilet aldığın konsere, konser günü 'Hiç çıkasım yok' deyip pijamayla canlı yayından izledin. Gerçek dünya bazen fazla gürültülü, fazla parlak, fazla... gerçek. Yatağın bir yatak değil, sığınak. Battaniyenin altında 3 dizi, 1 kitap ve bir hayal dünyası var; hepsine aynı anda katılıyorsun. Erteleme tuşuna 9 kez basıp her '5 dakika daha'yı bir pazarlık gibi yaşıyorsun. Sen bir Balık'sın; dünya seni bekleyebilir, sen zaten başka bir boyuttasın."
+    },
+    {
+      "variation_id": 7,
+      "archetype": "Nostaljik Stalker",
+      "trigger_tags": ["duygusal", "stalker", "nostaljik"],
+      "text": "Ağlarken eski sevgilini stalklıyor, ağladığın için kendine üzülüp ikinci tura başlıyorsun. Ama bunu bir Akrep gibi istihbarat için değil, 'Acaba o da beni özlüyor mu?' diye yapıyorsun. 3 yıl önceki mesajları açıp okuyor, 'O zamanlar her şey ne güzeldi' diye iç çekiyorsun. Ertesi sabah yeni bir aşk şarkısı keşfedip 'Belki bu sefer...' diye yeniden başlıyorsun. Sen bir Balık'sın; kalbin bir müze ve hiçbir eseri satmaya niyetin yok."
+    },
+    {
+      "variation_id": 8,
+      "archetype": "Duşta Kazanan",
+      "trigger_tags": ["catismadan_kacan", "kaygili"],
+      "text": "Kavga çıkmasın diye 'Aynen ya, kesinlikle' dedin. Sonra eve gidip duşta o tartışmayı 14 kez kazandın; hepsinde gözyaşları, haklılık ve hayali bir orkestra vardı. Çatışmadan kaçmak senin için bir hayatta kalma stratejisi. Ama kafanda o kavgalar asla bitmiyor; gece yatarken 'Keşke şöyle deseydim' senaryoları uykunu kaçırıyor. Sen bir Balık'sın; kimseyi incitmek istemiyorsun, sadece kendi kafanın içinde kendini bin kez incitiyorsun."
+    },
+    {
+      "variation_id": 9,
+      "archetype": "Kedi Ruh Okuyucusu",
+      "trigger_tags": ["tuhaf", "filozof"],
+      "text": "Sokak kedisine 'Prof. Dr. Muhittin' adını koydun ve onunla varoluşsal meseleleri tartışıyorsun. Ama bir Kova gibi analiz için değil; sen gerçekten onun ruhunu anlamaya çalışıyorsun. Evrendeki her şeyin bir ruhu olduğuna inanıyorsun: Kedinin, ağacın, hatta en sevdiğin kupanın. Bir rüyanı 3 gün boyunca yorumlayıp 'Bu bir mesaj' diyorsun. Sen bir Balık'sın; gerçeklikle hayal arasındaki çizgi senin için bir sınır değil, yalınayak yürüdüğün bir sahil şeridi."
+    },
+    {
+      "variation_id": 10,
+      "archetype": "37.2 Şehidi",
+      "trigger_tags": ["dramatik", "magdur"],
+      "text": "37.2 ateşle vasiyetini yazdırdın ve kimin seni daha az aradığını not ettin. Acı çekmek senin için bir sanat formu: Hafif bir baş ağrısı bir şiir, kalp kırıklığı üç perdelik bir opera. 'Ben iyiyim' diyorsun ve bu cümlenin arkasında koca bir trajedi kütüphanesi var. Seni teselli etmeye gelenler sonunda kendi dertlerini anlatmaya başlıyor, çünkü senin dramın onları da duygulandırıyor. Sen bir Balık'sın; mağdur değilsin, sadece hayatı çok yüksek bir duygusal çözünürlükte yaşıyorsun."
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "weight_scale": "-10 (bu burç ASLA böyle yapmaz) ... +10 (bu burcun ta kendisi)",
+    "selection": { "min": 3, "recommended": 6, "max": 10 },
+    "note": "Her özelliğin 1 ana burcu (9-10), 1-3 yan burcu (3-8) ve 1-3 'zıt' burcu (negatif) vardır. 12 burcun her birinin 4-5 ana özelliği olacak şekilde dengelenmiştir."
+  },
+  "tags": {
+    "kindar": "Kindar",
+    "kiskanc": "Kıskanç",
+    "gizemli": "Gizemli",
+    "manipulatif": "Manipülatif",
+    "stalker": "Dijital Dedektif",
+    "sistemli": "Sistemli",
+    "titiz": "Titiz",
+    "elestirel": "Eleştirel",
+    "kaygili": "Overthinker",
+    "evcimen": "Evcimen",
+    "yemek": "Yemek Odaklı",
+    "nostaljik": "Nostaljik",
+    "alingan": "Alıngan",
+    "duygusal": "Duygusal",
+    "sabirsiz": "Sabırsız",
+    "rekabetci": "Rekabetçi",
+    "ofkeli": "Kısa Sigorta",
+    "durtusel": "Dürtüsel",
+    "maceraci": "Maceracı",
+    "ozgurlukcu": "Bağlanma Korkulu",
+    "sorumsuz": "Sorumluluk Kaçağı",
+    "filozof": "Gece Filozofu",
+    "konuskan": "Konuşkan",
+    "cok_kisilikli": "Çok Kişilikli",
+    "kararsiz": "Kararsız",
+    "estetik": "Estetik Takıntılı",
+    "sosyal": "Sosyal Kelebek",
+    "catismadan_kacan": "Çatışmadan Kaçan",
+    "dramatik": "Drama Kraliçesi/Kralı",
+    "ego": "Ego",
+    "gosteris": "Gösterişçi",
+    "liderlik": "Kendini Atamış Lider",
+    "inatci": "İnatçı",
+    "konforcu": "Konfor Bağımlısı",
+    "para": "Para Hesapçısı",
+    "hirsli": "Hırslı",
+    "isk": "İşkolik",
+    "soguk": "Buz Gibi",
+    "aykiri": "Aykırı",
+    "tuhaf": "Tuhaf",
+    "hayalperest": "Hayalperest",
+    "kacis": "Kaçış Uzmanı",
+    "empatik": "Empatik",
+    "magdur": "Mağdur Modu",
+    "romantik": "Romantik",
+    "bilgic": "Bilgiç",
+    "patavatsiz": "Filtresiz"
+  },
+  "features": [
+    {
+      "id": "f_001",
+      "text": "Kinini Excel tablosunda tarih ve saate göre tutar; pivot tablosu bile var",
+      "tags": ["kindar", "sistemli"],
+      "weights": { "akrep": 10, "basak": 7, "oglak": 6, "yay": -3, "balik": -3 }
+    },
+    {
+      "id": "f_002",
+      "text": "Eski sevgilinin yeni sevgilisinin kuzeninin 2016 düğün albümüne kadar iner; tek bir yanlış beğeni yapmadan",
+      "tags": ["stalker", "kiskanc"],
+      "weights": { "akrep": 10, "yengec": 6, "basak": 3, "kova": -4, "yay": -3 }
+    },
+    {
+      "id": "f_003",
+      "text": "Ağlarken eski sevgilisini stalklar, ağladığı için kendine üzülüp ikinci tura başlar",
+      "tags": ["duygusal", "stalker", "dramatik", "nostaljik"],
+      "weights": { "yengec": 10, "balik": 6, "akrep": 5, "aslan": 3, "oglak": -3, "kova": -5 }
+    },
+    {
+      "id": "f_004",
+      "text": "Günde 4 farklı kişilik yaşar: sabah yogacı, öğlen girişimci, akşam nihilist, gece astrolog",
+      "tags": ["cok_kisilikli", "sosyal"],
+      "weights": { "ikizler": 10, "balik": 4, "kova": 3, "terazi": 3, "yay": 3, "oglak": -2, "boga": -3 }
+    },
+    {
+      "id": "f_005",
+      "text": "Restoranda menüyü 25 dakika okur, garsona \"Siz ne önerirsiniz?\" der, sonra önerilmeyeni söyler",
+      "tags": ["kararsiz", "catismadan_kacan"],
+      "weights": { "terazi": 10, "ikizler": 5, "balik": 4, "oglak": -2, "koc": -6 }
+    },
+    {
+      "id": "f_006",
+      "text": "Kırmızı ışıkta yanındaki arabayla göz göze gelince içinden drag yarışı başlatır",
+      "tags": ["rekabetci", "sabirsiz"],
+      "weights": { "koc": 10, "aslan": 5, "yay": 5, "boga": -3, "balik": -4 }
+    },
+    {
+      "id": "f_007",
+      "text": "Bir mesajı göndermeden önce 6 taslak yazar, 3 arkadaşına onaylatır, sonunda \"ok\" yazar",
+      "tags": ["kaygili", "kararsiz", "titiz"],
+      "weights": { "basak": 8, "terazi": 7, "yengec": 4, "yay": -2, "koc": -6 }
+    },
+    {
+      "id": "f_008",
+      "text": "Diyete her pazartesi başlar; pazartesi akşamı \"yarın daha net başlarım\" diye veda sofrası kurar",
+      "tags": ["yemek", "konforcu", "evcimen"],
+      "weights": { "boga": 10, "yengec": 5, "balik": 4, "oglak": -2, "basak": -4 }
+    },
+    {
+      "id": "f_009",
+      "text": "Tabağındaki son patatese izinsiz dokunulursa ilişkinin geleceğini sorgular",
+      "tags": ["yemek", "inatci", "kindar"],
+      "weights": { "boga": 9, "akrep": 4, "koc": 3, "yengec": 2, "terazi": -3, "balik": -3 }
+    },
+    {
+      "id": "f_010",
+      "text": "Kendi doğum gününü bir haftalık festivale çevirir; adı \"Benim Haftam\"dır ve katılım zorunludur",
+      "tags": ["ego", "gosteris", "dramatik", "liderlik"],
+      "weights": { "aslan": 10, "koc": 4, "terazi": 3, "oglak": -2, "balik": -2, "basak": -5 }
+    },
+    {
+      "id": "f_011",
+      "text": "Selfie çekerken 47 kare çeker, 40 dakika inceler, ilkini paylaşır",
+      "tags": ["gosteris", "estetik", "kararsiz"],
+      "weights": { "aslan": 9, "terazi": 7, "boga": 3, "basak": -3, "oglak": -2 }
+    },
+    {
+      "id": "f_012",
+      "text": "Bir metinde ayrı yazılmamış tek bir \"de\" yüzünden yazana olan saygısını %40 kaybeder",
+      "tags": ["elestirel", "titiz", "bilgic"],
+      "weights": { "basak": 10, "oglak": 6, "akrep": 3, "kova": 3, "yay": -3, "balik": -4 }
+    },
+    {
+      "id": "f_013",
+      "text": "Arkadaşının evinde bulaşık makinesini \"doğru\" dizmek için gizlice baştan yerleştirir",
+      "tags": ["titiz", "sistemli", "elestirel"],
+      "weights": { "basak": 10, "oglak": 5, "boga": 2, "aslan": -2, "ikizler": -4, "yay": -6 }
+    },
+    {
+      "id": "f_014",
+      "text": "Sabah \"kafam dinlensin\" diye köy kahvaltısına gider, akşam Bali'ye tek yön bilet bakarken bulunur",
+      "tags": ["maceraci", "durtusel", "ozgurlukcu"],
+      "weights": { "yay": 10, "koc": 5, "kova": 3, "ikizler": 3, "boga": -3, "oglak": -3, "yengec": -5 }
+    },
+    {
+      "id": "f_015",
+      "text": "İlişki ciddileşmeye başlayınca \"Kendimi bulmam lazım\" der ve Nepal'e gider (Wi-Fi'lı hostel)",
+      "tags": ["ozgurlukcu", "kacis", "maceraci"],
+      "weights": { "yay": 10, "kova": 7, "ikizler": 5, "terazi": -2, "boga": -3, "yengec": -6 }
+    },
+    {
+      "id": "f_016",
+      "text": "Kimse sormadan \"Bence o adamla boşuna vakit kaybediyorsun\" der ve en kötüsü, haklıdır",
+      "tags": ["patavatsiz", "bilgic", "elestirel"],
+      "weights": { "yay": 10, "koc": 6, "basak": 5, "kova": 4, "oglak": 3, "yengec": -3, "balik": -4, "terazi": -6 }
+    },
+    {
+      "id": "f_017",
+      "text": "Gece 03:00'te evrenin anlamı üzerine 11 dakikalık sesli mesaj atar; 2x hızda bile 5,5 dakika",
+      "tags": ["filozof", "konuskan", "hayalperest"],
+      "weights": { "yay": 9, "kova": 6, "balik": 5, "ikizler": 5, "boga": -2, "oglak": -3 }
+    },
+    {
+      "id": "f_018",
+      "text": "LinkedIn'de \"Pazar sabahı motivasyonu\" paylaşır; pazar sabahı ofistedir",
+      "tags": ["isk", "hirsli", "gosteris"],
+      "weights": { "oglak": 10, "aslan": 4, "basak": 4, "koc": 3, "balik": -5, "yay": -3, "boga": -2 }
+    },
+    {
+      "id": "f_019",
+      "text": "5 yıllık hayat planı vardır; 10 yıllık planın taslağı \"B planı (final)(son)(GERÇEK SON)\" klasöründe bekler",
+      "tags": ["sistemli", "hirsli"],
+      "weights": { "oglak": 10, "basak": 7, "akrep": 4, "yay": -3, "ikizler": -4, "balik": -5 }
+    },
+    {
+      "id": "f_020",
+      "text": "Biri duygularını açtığında \"Tamam, not aldım, geri dönüş yapacağım\" der",
+      "tags": ["soguk", "sistemli"],
+      "weights": { "oglak": 10, "kova": 8, "basak": 4, "ikizler": -2, "aslan": -3, "yengec": -6, "balik": -6 }
+    },
+    {
+      "id": "f_021",
+      "text": "İndirimde diye ihtiyacı olmayan 3 kilo kaju alır, sonra kajuyu kimseyle paylaşmaz",
+      "tags": ["para", "yemek", "inatci"],
+      "weights": { "boga": 10, "oglak": 6, "yay": -3 }
+    },
+    {
+      "id": "f_022",
+      "text": "Bütün sevgililerine \"Sen farklısın\" demiştir ve her seferinde gerçekten inanmıştır",
+      "tags": ["romantik", "hayalperest"],
+      "weights": { "balik": 9, "terazi": 7, "aslan": 4, "yengec": 3, "akrep": -2, "oglak": -3, "kova": -3 }
+    },
+    {
+      "id": "f_023",
+      "text": "Herkes bir şeyi sevdiği an ondan soğur: \"Ben onları daha 400 dinlenmeleri varken dinliyordum\"",
+      "tags": ["aykiri", "ego"],
+      "weights": { "kova": 10, "akrep": 3, "yay": 3, "terazi": -4, "yengec": -2, "boga": -2 }
+    },
+    {
+      "id": "f_024",
+      "text": "Sokak kedisine \"Prof. Dr. Muhittin\" adını koymuş, onunla düzenli olarak jeopolitik tartışır",
+      "tags": ["tuhaf", "filozof"],
+      "weights": { "kova": 9, "balik": 5, "ikizler": 4, "yay": 4, "aslan": -2, "oglak": -3, "basak": -4 }
+    },
+    {
+      "id": "f_025",
+      "text": "Tartışmayı kaybedeceğini anlayınca konuyu 40 dakika döndürür, sonunda karşı taraf ondan özür diler",
+      "tags": ["manipulatif", "konuskan"],
+      "weights": { "akrep": 9, "ikizler": 6, "terazi": 5, "oglak": 3, "yay": -2, "balik": -3 }
+    },
+    {
+      "id": "f_026",
+      "text": "Herkesin derdini dinler, kimse onunkini sormaz; bunu kimseye söylemez ama zihinsel bir deftere işler",
+      "tags": ["empatik", "magdur", "kindar", "alingan"],
+      "weights": { "yengec": 9, "balik": 7, "akrep": 4, "kova": -3, "koc": -3, "yay": -3 }
+    },
+    {
+      "id": "f_027",
+      "text": "Eski fotoğraflara bakıp \"O zamanlar her şey ne güzeldi\" der; fotoğraf geçen aya ait",
+      "tags": ["nostaljik", "duygusal"],
+      "weights": { "yengec": 10, "balik": 6, "boga": 3, "yay": -2, "ikizler": -3, "kova": -4 }
+    },
+    {
+      "id": "f_028",
+      "text": "Misafir \"Aç değilim\" dese de 5 çeşit yemek koyar ve kapıda Tupperware'le uğurlar",
+      "tags": ["yemek", "evcimen", "empatik"],
+      "weights": { "yengec": 10, "boga": 7, "basak": 2, "kova": -4, "yay": -3 }
+    },
+    {
+      "id": "f_029",
+      "text": "37.2 ateşle vasiyetini yazdırır ve kimin kendisini daha az aradığını not eder",
+      "tags": ["dramatik", "magdur"],
+      "weights": { "aslan": 8, "balik": 6, "yengec": 5, "ikizler": 3, "akrep": -2, "oglak": -3 }
+    },
+    {
+      "id": "f_030",
+      "text": "Bir mekâna girince önce ışığın yüzüne nasıl düştüğünü kontrol eder, masayı ona göre seçer",
+      "tags": ["ego", "gosteris", "estetik"],
+      "weights": { "aslan": 10, "terazi": 6, "boga": 3, "basak": -3, "kova": -3 }
+    },
+    {
+      "id": "f_031",
+      "text": "Grup projesinde kimse sormadan WhatsApp grubunu kurmuş, adını koymuş ve görev dağıtmıştır",
+      "tags": ["liderlik", "sabirsiz"],
+      "weights": { "koc": 9, "oglak": 7, "aslan": 5, "terazi": -4, "balik": -5 }
+    },
+    {
+      "id": "f_032",
+      "text": "Evdeki kırlentin açısı 15 derece bozulursa ruh hali de 15 derece bozulur",
+      "tags": ["estetik", "titiz"],
+      "weights": { "terazi": 8, "boga": 7, "basak": 6, "yay": -2, "koc": -3 }
+    },
+    {
+      "id": "f_033",
+      "text": "Kavga çıkmasın diye \"Aynen ya, kesinlikle\" der; eve gidip duşta o tartışmayı 14 kez kazanır",
+      "tags": ["catismadan_kacan", "kaygili"],
+      "weights": { "terazi": 10, "balik": 6, "yengec": 4, "yay": -2, "akrep": -2, "koc": -6 }
+    },
+    {
+      "id": "f_034",
+      "text": "Tartışmayı kaybettiğini anlayınca sesini yükseltir; hâlâ kaybediyorsa kapıyı çarpar",
+      "tags": ["ofkeli", "rekabetci", "inatci"],
+      "weights": { "koc": 10, "aslan": 5, "boga": 4, "terazi": -6, "balik": -4 }
+    },
+    {
+      "id": "f_035",
+      "text": "Sinirlenince 10 saniyede patlar, 11. saniyede \"Ne oldu ki ya?\" diye her şeyi unutur",
+      "tags": ["ofkeli", "durtusel", "patavatsiz"],
+      "weights": { "koc": 10, "yay": 5, "ikizler": 4, "boga": -2, "yengec": -4, "akrep": -6 }
+    },
+    {
+      "id": "f_036",
+      "text": "Otobüs camına yaslanıp yağmuru izlerken kafasındaki filmin arka plan müziğini kendisi seçer",
+      "tags": ["hayalperest", "romantik", "dramatik"],
+      "weights": { "balik": 10, "aslan": 4, "yengec": 3, "terazi": 3, "oglak": -3, "basak": -4 }
+    },
+    {
+      "id": "f_037",
+      "text": "Sorumluluktan kaçmak için \"Evren bana henüz işaret göndermedi\" der",
+      "tags": ["kacis", "sorumsuz", "hayalperest"],
+      "weights": { "balik": 9, "yay": 7, "ikizler": 4, "oglak": -3, "basak": -5 }
+    },
+    {
+      "id": "f_038",
+      "text": "Sohbetlere \"Bu arada şunu biliyor muydun?\" diye girip kimsenin sormadığı Wikipedia bilgileri anlatır",
+      "tags": ["bilgic", "konuskan"],
+      "weights": { "ikizler": 9, "yay": 7, "kova": 6, "basak": 4, "boga": -2, "balik": -2 }
+    },
+    {
+      "id": "f_039",
+      "text": "Planları son dakika iptal eder; ama son dakika plan yapılırsa ilk o gelir",
+      "tags": ["sorumsuz", "durtusel", "sosyal"],
+      "weights": { "ikizler": 9, "yay": 9, "koc": 4, "oglak": -3, "basak": -5 }
+    },
+    {
+      "id": "f_040",
+      "text": "Aynı anda 23 sekme, 4 dizi, 3 hobi ve 2 yarım kalmış podcast projesi yürütür",
+      "tags": ["cok_kisilikli", "durtusel"],
+      "weights": { "ikizler": 10, "yay": 5, "kova": 4, "koc": 3, "oglak": -2, "boga": -3, "yengec": -3 }
+    },
+    {
+      "id": "f_041",
+      "text": "Partide köşeye çekilip herkesi gözlemler, 3 kişinin gizli ilişkisini çözer ve kimseye söylemez",
+      "tags": ["gizemli", "stalker"],
+      "weights": { "akrep": 10, "kova": 4, "basak": 4, "ikizler": -4, "aslan": -3 }
+    },
+    {
+      "id": "f_042",
+      "text": "\"Ben insanları sevmem\" der, sonra bütün gece yabancıların hayat sorunlarını çözer",
+      "tags": ["aykiri", "empatik", "soguk"],
+      "weights": { "kova": 9, "balik": 4, "akrep": 3, "aslan": -3 }
+    },
+    {
+      "id": "f_043",
+      "text": "\"Yap\" denince yapmaz; \"Sakın yapma\" denince üç kat hızla yapar",
+      "tags": ["aykiri", "inatci"],
+      "weights": { "kova": 8, "koc": 6, "boga": 5, "yay": 5, "basak": -3, "terazi": -4 }
+    },
+    {
+      "id": "f_044",
+      "text": "4.000 TL'lik ortopedik yastığı \"kendime yatırım\" diye alır; 15 TL kargo ücretine isyan eder",
+      "tags": ["para", "konforcu"],
+      "weights": { "boga": 10, "oglak": 7, "terazi": 3, "yay": -2, "balik": -2 }
+    },
+    {
+      "id": "f_045",
+      "text": "Kendine rakip bulamazsa geçen yılki haliyle yarışır ve onu da yener",
+      "tags": ["rekabetci", "hirsli", "isk"],
+      "weights": { "oglak": 10, "koc": 7, "aslan": 5, "terazi": -2, "balik": -4 }
+    },
+    {
+      "id": "f_046",
+      "text": "Kıskandığını asla belli etmez; sadece \"Hmm, ilginç\" der ve 3 günlük sessizlik orucuna girer",
+      "tags": ["kiskanc", "soguk", "gizemli"],
+      "weights": { "akrep": 10, "oglak": 5, "boga": 4, "yengec": 2, "yay": -3, "ikizler": -4 }
+    },
+    {
+      "id": "f_047",
+      "text": "Sevgilisiyle tartışınca Instagram'a gökyüzü + hüzünlü şarkı + \"Bazı insanlar...\" hikâyesi atar",
+      "tags": ["dramatik", "magdur", "alingan"],
+      "weights": { "yengec": 9, "balik": 6, "aslan": 4, "terazi": 4, "kova": -4, "oglak": -4 }
+    },
+    {
+      "id": "f_048",
+      "text": "Hiç tanımadığı insanların düğün videosunda hüngür hüngür ağlar",
+      "tags": ["duygusal", "empatik"],
+      "weights": { "balik": 10, "yengec": 6, "terazi": 3, "koc": -2, "oglak": -3, "kova": -4 }
+    },
+    {
+      "id": "f_049",
+      "text": "Birbirine düşman iki arkadaşını aynı masada barıştırır; ikisine de ayrı ayrı \"Aslında sen haklısın\" demiştir",
+      "tags": ["sosyal", "catismadan_kacan", "manipulatif"],
+      "weights": { "terazi": 10, "ikizler": 5, "akrep": 3, "koc": -5 }
+    },
+    {
+      "id": "f_050",
+      "text": "Hafif bir baş ağrısını Google'da arar, 3 dakikada kendine 4 nadir hastalık teşhisi koyar",
+      "tags": ["kaygili", "titiz"],
+      "weights": { "basak": 9, "balik": 4, "yengec": 3, "yay": -2, "koc": -3 }
+    }
+  ]
+}

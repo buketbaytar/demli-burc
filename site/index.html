@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Demli Burç — Burcunu söyleme, biz demleyip bulalım</title>
+  <meta name="description" content="Sana uyan komik özellikleri seç; burcunu tahmin edelim ve seni acımadan tiye alalım. 12 burç, 120 farklı roast, herkese başka bir sonuç.">
+  <meta name="theme-color" content="#1c120c">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon-512.png">
+  <link rel="manifest" href="site.webmanifest">
+
+  <!-- Yayına alırken https://ALANADIN.com kısmını kendi domaininle değiştir (README'de anlatıldı) -->
+  <link rel="canonical" href="https://ALANADIN.com/">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="tr_TR">
+  <meta property="og:site_name" content="Demli Burç">
+  <meta property="og:title" content="Demli Burç — Burcunu söyleme, biz demleyip bulalım">
+  <meta property="og:description" content="Komik özellikleri seç, burcunu tahmin edelim ve seni acımadan tiye alalım. ☕♏">
+  <meta property="og:url" content="https://ALANADIN.com/">
+  <meta property="og:image" content="https://ALANADIN.com/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script>
+    try { var t = localStorage.getItem("demli_theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <a class="skip" href="#main">İçeriğe geç</a>
+
+  <header class="top">
+    <div class="wrap top-inner">
+      <a class="brand" href="./" id="brandLink" aria-label="Demli Burç ana sayfa">
+        <span class="brand-cup" aria-hidden="true">☕</span><span>Demli Burç</span>
+      </a>
+      <button class="icon-btn" id="themeBtn" type="button" aria-label="Açık/koyu tema">
+        <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9c0-.46-.04-.92-.1-1.36a5.5 5.5 0 0 1-7.54-7.54A9.1 9.1 0 0 0 12 3Z"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- 1) SEÇİM -->
+    <section id="view-pick" class="view" aria-labelledby="pickTitle">
+      <div class="wrap">
+        <div class="hero">
+          <p class="eyebrow">Astroloji · acı gerçekler sürümü</p>
+          <h1 id="pickTitle">Burcunu söyleme.<br>Biz <em>demleyip</em> bulalım.</h1>
+          <p class="lede">Aşağıdakilerden sana uyanları seç. Yıldızlar burcunu tahmin edecek ve seni nazikçe… yok, pek nazik olmadan tiye alacak.</p>
+
+          <div class="mode" role="radiogroup" aria-label="Kimin için?">
+            <button type="button" role="radio" class="mode-btn" data-mode="s" aria-checked="true">Kendim için</button>
+            <button type="button" role="radio" class="mode-btn" data-mode="a" aria-checked="false">Bir arkadaşım için</button>
+          </div>
+        </div>
+
+        <div class="chips-head">
+          <p id="chipsHint" class="chips-hint">Sana uyan <strong>5-6 tanesini</strong> seç. Dürüst ol, kimse görmüyor.</p>
+          <button type="button" class="link-btn" id="surpriseBtn">🎲 Bana sürpriz yap</button>
+        </div>
+        <div id="chips" class="chips" role="group" aria-labelledby="chipsHint"></div>
+      </div>
+    </section>
+
+    <!-- 2) DEMLENİYOR -->
+    <section id="view-brew" class="view" hidden aria-live="polite">
+      <div class="wrap brew">
+        <div class="cup" aria-hidden="true">
+          <span class="steam s1"></span><span class="steam s2"></span><span class="steam s3"></span>
+          <div class="cup-body"><div class="tea"></div></div><div class="cup-handle"></div>
+        </div>
+        <p id="brewText" class="brew-text">Yapraklar demleniyor…</p>
+      </div>
+    </section>
+
+    <!-- 3) SONUÇ -->
+    <section id="view-result" class="view" hidden aria-labelledby="resultTitle">
+      <div class="wrap">
+        <div id="sharedBanner" class="shared-banner" hidden>
+          <span>Bu sonuç sana bir arkadaşından geldi 👀</span>
+          <button type="button" class="link-btn" data-action="restart">Sen de dene →</button>
+        </div>
+
+        <article class="card" id="resultCard">
+          <p class="eyebrow" id="resultEyebrow">Yıldızların kararı</p>
+          <div class="sign-row">
+            <span class="sign-emoji glyph" id="resultEmoji" aria-hidden="true">♏</span>
+            <div>
+              <h2 id="resultTitle" class="sign-name">Akrep</h2>
+              <p class="archetype" id="resultArchetype">“Arşiv Müdürü”</p>
+            </div>
+          </div>
+          <p class="roast" id="resultBody"></p>
+          <div id="resultEvidence" class="evidence"></div>
+          <p id="resultExtra" class="extra" hidden></p>
+
+          <div class="meta-grid">
+            <div class="mix">
+              <p class="meta-title">Burç karışımın</p>
+              <div id="resultMix"></div>
+              <p class="confidence" id="resultConfidence"></p>
+            </div>
+            <div class="tea-box">
+              <p class="meta-title">☕ Çay reçeten</p>
+              <p id="resultTea"></p>
+            </div>
+          </div>
+          <p class="closer" id="resultCloser"></p>
+        </article>
+
+        <div class="actions">
+          <button type="button" class="cta" data-action="share-image">📸 Story görseli</button>
+          <button type="button" class="btn" data-action="share">📤 Paylaş</button>
+          <button type="button" class="btn" data-action="whatsapp">💬 WhatsApp</button>
+          <button type="button" class="btn" data-action="copy">🔗 Kopyala</button>
+        </div>
+        <div class="actions secondary">
+          <button type="button" class="btn ghost" data-action="rebrew" id="rebrewBtn">🔁 Bu ben değilim, tekrar demle</button>
+          <button type="button" class="btn ghost" data-action="friend">🫵 Arkadaşını test et</button>
+          <button type="button" class="btn ghost" data-action="restart">↺ Baştan başla</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div class="bar" id="bar">
+    <div class="wrap bar-inner">
+      <div class="count">
+        <div class="dots" id="dots" aria-hidden="true"></div>
+        <p><strong id="countNum">0</strong> seçildi · <span id="countHint">en az 3 seç</span></p>
+      </div>
+      <button type="button" class="cta" id="brewBtn" disabled>Burcumu demle</button>
+    </div>
+  </div>
+
+  <footer class="foot">
+    <div class="wrap">
+      <p>Demli Burç eğlence amaçlıdır. Gerçek astrolojiyle ilgisi, kinini Excel'de tutmayan bir Akrep kadar azdır.</p>
+      <p>Seçimlerin cihazından çıkmaz; hiçbir sunucuya veri gönderilmez.</p>
+    </div>
+  </footer>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="data.js"></script>
+  <script src="engine.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

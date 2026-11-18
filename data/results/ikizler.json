@@ -1,0 +1,65 @@
+{
+  "sign": "ikizler",
+  "variations": [
+    {
+      "variation_id": 1,
+      "archetype": "Kişilik AVM'si",
+      "trigger_tags": ["cok_kisilikli", "sosyal"],
+      "text": "Karşımızda tek bir insan değil, 4 kişilik bir yönetim kurulu var. Sabah 07:00'de yoga yapıp iç huzur arayan biri; öğlen 'Kendi işimi kurmalıyım' diyen girişimci; akşam 'Hiçbir şeyin anlamı yok' diyen nihilist; gece 02:00'de herkesin doğum haritasını çıkaran amatör astrolog. Arkadaşların seninle buluşmadan önce 'Bugün hangisi gelecek?' diye grupta anket açıyor. Sen bir kafa karışıklığı değilsin, bir platformsun. Kendine 'Sen kimsin?' diye sorduğunda 4 farklı cevap geliyor ve hepsi ikna edici."
+    },
+    {
+      "variation_id": 2,
+      "archetype": "Yürüyen Wikipedia",
+      "trigger_tags": ["bilgic", "konuskan"],
+      "text": "'Bu arada şunu biliyor muydunuz?' cümlesiyle sohbete dalan, ahtapotların 3 kalbi olduğunu bir taziye ziyaretinde söyleyebilecek kadar özgüvenli bir İkizler'sin. Bilgin okyanus genişliğinde ama 2 santim derinliğinde: Her konuda 3 dakika konuşabilir, 4. dakikada konuyu başka bir ilginç bilgiye bağlarsın. Doktorla tıp, avukatla hukuk, kuaförle saç kimyası tartıştın. 'Bilmiyorum' demek yerine 'Şöyle bir teori var...' diyorsun. Arama motorları seninle rekabet edemediği için seni işe almayı düşünüyor."
+    },
+    {
+      "variation_id": 3,
+      "archetype": "Son Dakika Ajansı",
+      "trigger_tags": ["sorumsuz", "durtusel", "sosyal"],
+      "text": "Senin takvimin bir öneri listesi; bağlayıcılığı yok. 3 hafta önce sözleştiğin doğum gününü 40 dakika önce 'Ya çok kötü bir şey oldu' diye iptal ediyorsun (kötü şey: canın istemedi). Ama biri gece 23:00'te 'Kalkın, Kapadokya'ya gidiyoruz' derse kapının önünde ilk sen bekliyorsun, elinde bavulun bile var. Planlı eğlence senin için angarya, plansız kaos ise hayatın anlamı. Arkadaşların artık senin 'Belki'ni 'Hayır', 'Geliyorum'unu ise 'Belki' olarak yorumluyor."
+    },
+    {
+      "variation_id": 4,
+      "archetype": "23 Açık Sekme",
+      "trigger_tags": ["cok_kisilikli", "durtusel"],
+      "text": "Beynin bir tarayıcı ve şu an 23 sekme açık: 4 dizi (hepsinin 3. bölümünde kaldın), 3 hobi (seramik, tenis, Korece), 2 yarım podcast projesi ve bir sekme de müzik çalıyor ama hangisi olduğunu bulamıyorsun. Dikkat süren 15 saniyelik bir videodan kısa, merakın ise bir kâşifinkinden uzun. Bir şeye o kadar hızlı bağlanıp o kadar hızlı sıkılıyorsun ki kendi hobilerin bile seni tanımıyor. Sen dağınık değilsin; paralel evrenlerde aynı anda yaşayan bir çoklu görev deneyisin."
+    },
+    {
+      "variation_id": 5,
+      "archetype": "Sözlü Sihirbaz",
+      "trigger_tags": ["manipulatif", "konuskan"],
+      "text": "Seninle tartışmaya giren biri 40 dakika sonra konunun ne olduğunu unutuyor ve bir şekilde kendini senden özür dilerken buluyor. Kelimeleri bir sihirbazın iskambil destesi gibi kullanıyorsun; 'Ben öyle demedim ki, sen öyle anladın' kartı her zaman elinin altında. Haklı olmana gerek yok, daha çok konuşman yeterli. Avukatlar taktiklerini not alıyor. Tek sorun: Bazen kendi kendinle tartışıp kendini de ikna ediyorsun ve sonra neyi savunduğunu hatırlamıyorsun."
+    },
+    {
+      "variation_id": 6,
+      "archetype": "Gece 3 Podcast'çisi",
+      "trigger_tags": ["filozof", "konuskan", "hayalperest"],
+      "text": "Gündüz sıradan bir insansın; ama saat 03:00'ü geçince içindeki Sokrates uyanıyor. Arkadaşlarına 'Sence zaman gerçekten var mı?' konulu 11 dakikalık sesli mesaj atıyorsun. 2x hızda dinleseler bile 5,5 dakika sürüyor ve 'Neyse, uyuyorum' diye bitiyor. Sabah kimse cevap vermemiş oluyor ama sen çoktan 'Ya aslında kediler bizi evcilleştirdiyse?' teorisine geçmişsin. Sen bir İkizler'sin: Düşüncelerin hızlı, uykun az, sesli mesajların ise roman uzunluğunda."
+    },
+    {
+      "variation_id": 7,
+      "archetype": "Menü Kilitlenmesi",
+      "trigger_tags": ["kararsiz", "catismadan_kacan"],
+      "text": "Sen İkizler'sin ama içinde bir Terazi kiracı olarak oturuyor. Restoranda menüyü roman gibi okuyorsun, garsonu 3 kez geri gönderiyorsun, sonunda 'Sen ne yersen' diyorsun ve yemekler gelince karşındakinin tabağına bakıyorsun. İki seçenek arasında kalınca ikisini de kafanda 40 kez yaşıyor, sonra üçüncü bir seçenek icat ediyorsun. 'Hangisi?' sorusuna cevabın her zaman 'Bilmem, sen?' Kararsızlığın o kadar güçlü ki bu metne inanıp inanmayacağına henüz karar veremedin."
+    },
+    {
+      "variation_id": 8,
+      "archetype": "Kaçak Rüzgâr",
+      "trigger_tags": ["ozgurlukcu", "kacis", "maceraci"],
+      "text": "İlişki 'bizim şarkımız' aşamasına geldiğinde içinde bir alarm çalıyor ve bir anda 'Kendimi keşfetmem lazım' diyerek ufka bakıyorsun. Sen bir İkizler'sin; bağlanmak sana hapis gibi geliyor, dizi platformu üyeliğini bile aylık alıyorsun çünkü yıllık taahhüt korkutucu. Kaçış planın hep hazır: Telefonunda en az 3 farklı ülkeye uçuş fiyat alarmı kurulu. Sen kimseyi terk etmiyorsun; sadece çok hızlı hareket eden bir rüzgârsın ve rüzgâr kimseye adres bırakmaz."
+    },
+    {
+      "variation_id": 9,
+      "archetype": "Dram Muhabiri",
+      "trigger_tags": ["dramatik", "konuskan", "magdur"],
+      "text": "Başına gelen her olayı bir haber bülteni formatında arkadaş grubuna sunuyorsun: 14 ekran görüntüsü, 3 sesli mesaj ve 'Özetle şöyle oldu' paragrafı (özet: 800 kelime). Kasiyer sana ters baktıysa bu bir olay, otobüs 2 dakika geç geldiyse bir trajedi. 37.2 ateşin olduğunda 'Herkes hakkını helal etsin' paylaşımı yapıyorsun. Sen bir İkizler'sin ve hayatın bir dizi değil, 24 saat yayın yapan bir haber kanalı; reytingler hiç düşmüyor çünkü her gün yeni bölüm var."
+    },
+    {
+      "variation_id": 10,
+      "archetype": "Tuhaf Teorisyen",
+      "trigger_tags": ["tuhaf", "filozof", "bilgic"],
+      "text": "Sokak kedisine 'Prof. Dr. Muhittin' adını koyup onunla jeopolitik tartışan bir İkizler: Evet, sana sesleniyoruz. Beynin aynı anda 3 komplo teorisi, 2 felsefi akım ve 1 'Penguenler neden öyle yürüyor?' araştırması yürütüyor. Bir sohbetin tam ortasında 'Durun, ya hepimiz bir simülasyondaysak?' diyerek konuyu kökünden değiştiriyorsun. İnsanlar seni bazen anlamıyor ama Prof. Dr. Muhittin anlıyor. En azından öyle bakıyor."
+    }
+  ]
+}

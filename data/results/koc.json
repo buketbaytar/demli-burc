@@ -1,0 +1,65 @@
+{
+  "sign": "koc",
+  "variations": [
+    {
+      "variation_id": 1,
+      "archetype": "Trafik Gladyatörü",
+      "trigger_tags": ["rekabetci", "sabirsiz"],
+      "text": "Tebrikler, karşımızda yürüyen bir 'Hemen Şimdi' butonu var! Senin için hayat bir yarış değil, çünkü yarışın bir bitiş çizgisi olur; seninkinin yok. Asansörde yanındakinden önce inmek için kapıya pozisyon alıyorsun, markette en kısa kuyruğu seçmek için hesap yapıyor, seçemeyince kasiyerle göz teması yarışına giriyorsun. Navigasyon '12 dakika' diyorsa bunu kişisel hakaret sayıp 9'da varıyorsun. Sabır senin için bir erdem değil, düşmanın kullandığı bir taktik. Bir gün biri sana 'Acele etme' diyecek ve sen o cümlenin bitmesini bile beklemeyeceksin."
+    },
+    {
+      "variation_id": 2,
+      "archetype": "Kibrit Kutusu",
+      "trigger_tags": ["ofkeli", "durtusel"],
+      "text": "Sen bir Koç'sun ama daha çok 'mikrodalgada unutulmuş yumurta' gibisin: 10 saniye sessizlik, ardından mutfağı saran patlama. İşin güzel tarafı, öfken bir sinek kuşunun kanat çırpışı kadar kısa. Bağırıyorsun, çağırıyorsun, kapıyı yarı kapatıp yarı çarpıyorsun; 11. saniyede 'Akşam ne yiyoruz?' diye soruyorsun. Karşındaki hâlâ titrerken sen çoktan başka bir galakside, başka bir konuya sinirlenmeye hazırlanıyorsun. Psikologlar senin için 'öfke yönetimi' değil 'öfke havai fişeği' diye yeni bir terim üzerinde çalışıyor."
+    },
+    {
+      "variation_id": 3,
+      "archetype": "Kendini Atamış Başkan",
+      "trigger_tags": ["liderlik", "sabirsiz"],
+      "text": "Kimse seni seçmedi ama sen zaten görevdesin. Grup projesinin adı konmadan WhatsApp grubunu kurdun, grup fotoğrafını belirledin, 'Görev Dağılımı (LÜTFEN OKUYUN)' mesajını sabitledin. Ekibin yarısı hâlâ projenin konusunu öğrenmeye çalışırken sen 'Arkadaşlar teslime 3 gün kaldı, yavaşız' diye ikinci uyarıyı attın. Demokrasiye inanıyorsun; yeter ki oylama senin önerin kazanana kadar tekrarlansın. İnsanlar senden korkmuyor, sadece senin 'Hadi hadi hadi'lerin rüyalarına giriyor."
+    },
+    {
+      "variation_id": 4,
+      "archetype": "Kapı Çarpma Şampiyonu",
+      "trigger_tags": ["ofkeli", "inatci"],
+      "text": "Tartışma senin için bir sohbet değil, bir boks maçı; ve kaybedeceğini anladığın anda kuralları değiştiren tek boksörsün. Önce sesin yükseliyor, sonra cümlelerin kısalıyor, en sonunda kapıyı çarparak 'Bu konuşma burada bitti' mesajını fizik kurallarıyla iletiyorsun. Evinin menteşeleri senin yüzünden yılda iki kez değişiyor. İşin trajik kısmı: Haksız olduğunu 4 saat sonra duşta anlıyorsun ama bunu söylemek yerine 'Çay koyayım mı?' diyorsun. Senin dilinde özür, demlik şeklinde gelir."
+    },
+    {
+      "variation_id": 5,
+      "archetype": "Filtresiz Hoparlör",
+      "trigger_tags": ["patavatsiz", "ofkeli"],
+      "text": "Ağzınla beynin arasında bir güvenlik görevlisi yok; hatta kapı da yok, sadece rüzgâr var. Aklına geleni, geldiği anda, geldiği ses tonunda söylüyorsun. 'Bu saç sana olmamış', 'Bu sunumu ben 10 dakikada yapardım', 'Sevgilin bence seni sevmiyor' — hepsi bir dakikada, araya nefes bile koymadan. Sonra karşındaki yaralanınca samimi bir şaşkınlıkla 'Ben dürüst bir insanım ya' diyorsun. Evet, dürüstsün. Ama dürüstlüğü balyozla servis eden tek insan da sensin."
+    },
+    {
+      "variation_id": 6,
+      "archetype": "Önce Atla, Sonra Düşün",
+      "trigger_tags": ["durtusel", "maceraci"],
+      "text": "Senin karar alma sürecin şöyle işliyor: Fikir gelir → Yaparsın → Sonra 'Fikir neydi?' diye düşünürsün. Paraşütle atlamaya 'Hadi ya, neden olmasın' diyerek karar verdin, paraşütün nasıl açıldığını uçakta YouTube'dan izledin. Saç kestirmeye gidip kafayı kazıtarak çıkman, 'iki günlüğüne' gittiğin şehirde 3 ay kalman, 'Sadece bakacağız' dediğin barınaktan köpekle dönmen tesadüf değil. Sen bir Koç'sun ve senin için 'risk analizi', iş işten geçtikten sonra yapılan bir etkinlik."
+    },
+    {
+      "variation_id": 7,
+      "archetype": "Ego Turbo",
+      "trigger_tags": ["ego", "gosteris", "rekabetci"],
+      "text": "Sen Koç'sun ama içinde gizli bir Aslan ajanı çalışıyor. Bir ortama girdiğinde ilk 3 saniyede 'Buradaki en havalı kim?' taraması yapıyor ve sonuç 'ben' çıkana kadar analizi tekrarlıyorsun. Doğum günün bir gün değil, bir kampanya dönemi. Biri hikâye anlattığında 'Bana da olmuştu, ama daha büyüğü' diye devreye giriyorsun. Arkadaşların seninle yarışmayı çoktan bıraktı; sen hâlâ onları geçmekle meşgulsün. Rakipsiz kalmak seni mutlu etmiyor, yeni rakip icat ediyorsun."
+    },
+    {
+      "variation_id": 8,
+      "archetype": "Kendi Kendinin Rakibi",
+      "trigger_tags": ["hirsli", "rekabetci", "isk"],
+      "text": "Rakip bulamayınca geçen yılki halinle yarışan nadir tür: Turbo Koç. Koşu uygulamasında kendi rekorunu kıramadığın gün kendine küsüyorsun. Pazar sabahı ofise gidip 'Kimse yok, verimli olurum' diyorsun ama aslında geçecek kimse olmadığı için huzursuzsun. Tatilde bile 'Denize ilk kim girer?' yarışı başlatıyor, kazanınca kendine sözlü ödül töreni düzenliyorsun. Bir gün dinlenmeyi öğreneceksin; ama o gün de dinlenmede birinci olmak isteyeceksin."
+    },
+    {
+      "variation_id": 9,
+      "archetype": "Boynuzlu İnat Motoru",
+      "trigger_tags": ["inatci", "aykiri"],
+      "text": "Sana 'Bunu yapma' demek, o şeyi yapman için davetiye bastırmak demek. Doktor 'Tuzu azalt' dedi, tuzluğu cebinde taşımaya başladın. Annen 'O montla üşürsün' dedi, şubatta tişörtle dolaşıp 'Hiç de üşümüyorum' dedin (dudakların mordu). Senin inadın bir kişilik özelliği değil, yenilenebilir enerji kaynağı. Ters psikolojiyi bilen bir arkadaşın varsa hayatını tamamen o yönetiyor; ama sen bunu asla kabul etmeyeceksin, çünkü kabul etmemek için de inat etmen gerekiyor."
+    },
+    {
+      "variation_id": 10,
+      "archetype": "Yarım Proje Koleksiyoncusu",
+      "trigger_tags": ["cok_kisilikli", "durtusel", "sorumsuz"],
+      "text": "Hayatın, başlanmış ama bitirilmemiş projelerden oluşan bir müze. Ukulele (3 akor), Japonca (7 kelime), ekşi maya ekmek (1 yanık deneme), podcast (1 bölüm, 4 dinlenme; 3'ü annen). Her yeni hobiye Koç tutkusuyla dalıyorsun: Ekipmanın en pahalısını alıyor, Instagram'da duyuruyor, 9. günde başka bir şeye geçiyorsun. Sen bir başlangıç uzmanısın; klavyende 'Devam' tuşu yok. Ama kabul edelim, bitirmeyi bilmeyen biri için başlamakta gerçekten dünya birincisisin."
+    }
+  ]
+}

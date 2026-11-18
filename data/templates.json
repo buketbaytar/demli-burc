@@ -1,0 +1,75 @@
+{
+  "signs": {
+    "koc":     { "name": "Koç",     "emoji": "♈", "element": "Ateş",   "flavor": "o yüzden her şeyi biraz daha hızlı ve biraz daha yüksek sesle yaşıyorsun",
+                 "tea": "Ateşte demlenmiş, tavşan kanı siyah çay. Demlenmesi için 3 dakika bekle. Evet, koca 3 dakika. Sabır antrenmanı say." },
+    "boga":    { "name": "Boğa",    "emoji": "♉", "element": "Toprak", "flavor": "o yüzden her krizin sonunda bir tabak yemek ve bir inat var",
+                 "tea": "Klasik demli siyah çay; yanında 2 kurabiye, 1 dilim kek ve 'sadece tadına bakarım' böreği. Bardak paylaşılmaz." },
+    "ikizler": { "name": "İkizler", "emoji": "♊", "element": "Hava",   "flavor": "o yüzden bu kaosu aynı anda 4 farklı kişilikle yaşıyorsun",
+                 "tea": "Aynı anda iki farklı çay. Hangisini içeceğine karar verene kadar ikisi de soğuyacak. Olsun, konuşacak konu çıkar." },
+    "yengec":  { "name": "Yengeç",  "emoji": "♋", "element": "Su",     "flavor": "o yüzden her şeyin sonunda biraz ağlıyor ve bir şeyler pişiriyorsun",
+                 "tea": "Anneannenin demliğinden, ince belli bardakta papatya çayı. Yanında bir paket mendil; ne olur ne olmaz." },
+    "aslan":   { "name": "Aslan",   "emoji": "♌", "element": "Ateş",   "flavor": "o yüzden bütün bunları seyircili yapmayı tercih ediyorsun",
+                 "tea": "Işığın en iyi vurduğu masada, altın kenarlı bardakta bergamotlu Earl Grey. Fotoğrafını çekmeden içmek yasak." },
+    "basak":   { "name": "Başak",   "emoji": "♍", "element": "Toprak", "flavor": "o yüzden kaosun bile bir Excel tablosu var",
+                 "tea": "Tam 80 derecede, tam 2 dakika 30 saniye demlenmiş yeşil çay. Poşetin ipi düzgün sarılmış, bardağın altında altlık." },
+    "terazi":  { "name": "Terazi",  "emoji": "♎", "element": "Hava",   "flavor": "o yüzden bunu bile kimseyi kırmadan ama 40 dakika düşünerek yapıyorsun",
+                 "tea": "Yarım siyah, yarım yeşil... ya da beyaz mı? Neyse, garson senin yerine seçsin. Bardak estetik olsun yeter." },
+    "akrep":   { "name": "Akrep",   "emoji": "♏", "element": "Su",     "flavor": "o yüzden her şeyi not alıyor ve hiçbir şeyi unutmuyorsun",
+                 "tea": "Koyu, demli, içinde ne olduğunu kimsenin bilmediği bir siyah çay. Tıpkı kalbin gibi." },
+    "yay":     { "name": "Yay",     "emoji": "♐", "element": "Ateş",   "flavor": "o yüzden işler ciddileşince bir uçak bileti bakıyorsun",
+                 "tea": "Dağ başında, termostan, bilmediğin bir ülkenin baharatıyla. Bardağı da yanında götür, geri getirmeyeceğini biliyoruz." },
+    "oglak":   { "name": "Oğlak",   "emoji": "♑", "element": "Toprak", "flavor": "o yüzden duygularını bile çeyrek dönem raporuna bağlıyorsun",
+                 "tea": "İki toplantı arasında 90 saniyede içilen sade siyah çay. Şekersiz, süssüz, verimli." },
+    "kova":    { "name": "Kova",    "emoji": "♒", "element": "Hava",   "flavor": "o yüzden herkes bir yöne giderken sen sırf prensip gereği tersine gidiyorsun",
+                 "tea": "Kimsenin denemediği bir kombinasyon: soğuk demlenmiş lavanta + karabiber. Herkes yadırgayacak, sen seveceksin." },
+    "balik":   { "name": "Balık",   "emoji": "♓", "element": "Su",     "flavor": "o yüzden gerçeklikle aranda her zaman ince bir sis perdesi var",
+                 "tea": "Yağmurlu bir pencerenin önünde ballı ıhlamur. Hayal kurarken soğumasına izin vereceksin, biliyoruz." }
+  },
+
+  "evidence_templates": [
+    "Kozmik kanıt #1: '{feature}' seçeneğine tıkladığın anda sistemimizin alarmları çaldı.",
+    "Dosyayı kapatan delil: '{feature}'. Savunman var mı? Yok. Teşekkürler.",
+    "'{feature}' butonuna basman, yıldız haritanda neon tabela gibi yanıp sönüyor.",
+    "Hâkim bey, sanığın kendi eliyle işaretlediği delil: '{feature}'.",
+    "Algoritmamız şüpheliydi; '{feature}' itirafından sonra emin olduk.",
+    "Bilirkişi raporu: '{feature}' satırını okuyan yapay zekâmız 3 saniye sustu, sonra bu sonucu verdi."
+  ],
+
+  "evidence_second_templates": [
+    "Üstüne bir de '{feature}' dedin ya, tabutun son çivisi oydu.",
+    "'{feature}' ise pastanın üstündeki çilek oldu.",
+    "Yetmezmiş gibi '{feature}' seçeneğini de işaretledin. Tamam, anladık."
+  ],
+
+  "secondary_templates": [
+    "Ama dur, bitmedi: Analizimiz içinde %{pct} oranında {secondary} kırıntısı buldu; {flavor}.",
+    "Yan etki uyarısı: Kanında %{pct} {secondary} var; {flavor}.",
+    "Bonus teşhis: %{pct} oranında {secondary} enerjisi taşıyorsun, {flavor}."
+  ],
+
+  "hybrid_templates": [
+    "⚖️ Kozmik Beraberlik Alarmı: {winner} ile {runner} arasında fotoğraf finişi oldu (%{p1} - %{p2}). Yıldızlar VAR kaydını izledi ve {winner} lehine karar verdi. {runner} itiraz hakkını saklı tutuyor.",
+    "⚖️ Sistemimiz seni {winner} ve {runner} arasında bölmek zorunda kaldı: %{p1} {winner}, %{p2} {runner}. Biri gerçek kişiliğin, diğeri grup sohbetindeki halin.",
+    "⚖️ Astroloji kurulu oy birliği sağlayamadı: %{p1} {winner}, %{p2} {runner}. Yükselenin de muhtemelen kafası karışık."
+  ],
+
+  "confidence_labels": [
+    { "min": 70, "label": "Kozmik Kesinlik: Tartışmaya kapalı" },
+    { "min": 45, "label": "Kozmik Kesinlik: Gayet net" },
+    { "min": 30, "label": "Kozmik Kesinlik: Güçlü şüphe" },
+    { "min": 0,  "label": "Kozmik Kesinlik: Karışık sinyaller" }
+  ],
+
+  "no_sign_result": {
+    "archetype": "Kozmik Kaçak",
+    "text": "Tebrikler, sistemi kırdın. Seçtiğin özellikler 12 burcun 12'sini de aynı anda reddetti. Ya yıldız haritan başka bir galaksiden ithal, ya da bu testi bir arkadaşını trollemek için dolduruyorsun. İki ihtimalde de astroloji kurulumuz seni 'Burçsuz - Bağımsız Aday' olarak kayıt altına aldı. Bir de dürüst seçimlerle tekrar dene; yıldızlar kaçarsın ama saklanamazsın diyor."
+  },
+
+  "too_few_message": "Yıldızlar senin hakkında konuşmak için biraz daha malzeme istiyor. En az {min} özellik seç (ideali {recommended}).",
+
+  "closers": [
+    "Bu sonucu bir arkadaşına gönder ve onun burcunu da tahmin edelim. Hem de onun haberi olmadan.",
+    "İtiraz etmeden önce seçtiğin butonları bir daha oku. Biz sadece aynayı tuttuk.",
+    "Sonuca alındıysan bu tamamen tesadüf. Alınmadıysan da tesadüf. Yıldızlar ne yaptığını biliyor."
+  ]
+}

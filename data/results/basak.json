@@ -1,0 +1,65 @@
+{
+  "sign": "basak",
+  "variations": [
+    {
+      "variation_id": 1,
+      "archetype": "İmla Polisi",
+      "trigger_tags": ["elestirel", "bilgic"],
+      "text": "Biri mesajında 'herkez' yazdığında içinde bir şey ölüyor. Ayrı yazılmamış bir 'de' yüzünden o kişiye olan saygın %40 düşüyor ve bu kayıp geri döndürülemiyor. Sen bir Başak'sın ve dünyanın düzeltilmesi gereken bir taslak olduğuna inanıyorsun. Restoran menüsündeki yazım hatalarını garsona söylememek için kendini tutuyorsun (her zaman tutamıyorsun). Arkadaşlarının CV'lerini, düğün davetiyelerini, hatta taziye mesajlarını düzeltiyorsun. Sözlük editörleri seni işe almak istedi ama sen onların da üç hatasını buldun."
+    },
+    {
+      "variation_id": 2,
+      "archetype": "Bulaşık Makinesi Mühendisi",
+      "trigger_tags": ["titiz", "sistemli"],
+      "text": "Arkadaşının evinde herkes salondayken bulaşık makinesini 'doğru' dizmek için gizlice mutfağa geçiyorsun. Tabaklar büyükten küçüğe, bardaklar açıya göre, çatallar sap aşağı (hijyen). Kaos senin için bir alerjen. Buzdolabında etiketli saklama kapları, alfabetik baharatlar, renk tonuna göre dizilmiş çoraplar. Biri 'Boş ver, olduğu gibi kalsın' dediğinde içindeki küçük Başak çığlık atıyor. Senin cennet tanımın: Her şeyin bir yeri olan ve kimsenin hiçbir şeye dokunmadığı bir ev."
+    },
+    {
+      "variation_id": 3,
+      "archetype": "İnternet Doktoru",
+      "trigger_tags": ["kaygili", "titiz"],
+      "text": "Hafif bir baş ağrısı → arama motoru → 3 dakika sonra 4 nadir hastalık, 2 tropikal virüs ve 'Acile mi gitsem?' sorusu. Sen bir Başak'sın ve vücudun senin için 7/24 izlenen bir proje. Akıllı saatin nabzını ölçüyor, sen de akıllı saatini. Doktora kendi teşhisinle, kaynakçayla ve 'Şu ihtimali de eleyelim' listesiyle gidiyorsun. Doktor seni dinlerken diplomasını sorguluyor. Sağlığın yerinde; ama kaygın bir maraton koşucusu kadar formda."
+    },
+    {
+      "variation_id": 4,
+      "archetype": "Taslak Bağımlısı",
+      "trigger_tags": ["kaygili", "kararsiz"],
+      "text": "Bir mesajı göndermeden önce 6 taslak yazıyor, 3 arkadaşına onaylatıyor, noktalama işaretlerinin duygusal etkisini analiz ediyor ve sonunda 'ok' yazıyorsun. Hatta bazen 'ok.'; o nokta 20 dakikalık bir karar. İletişim senin için bir yazılım testi: Her senaryoda hata çıkabilir. Mesaj gittikten sonra 'görüldü' olana kadar 47 kez kontrol ediyorsun; cevap gecikirse 'Acaba yanlış mı anladı?' diye yeni bir 6 taslaklı süreç başlıyor. Sen bir Başak'sın: Göndermek kolay, göndermiş olmak zor."
+    },
+    {
+      "variation_id": 5,
+      "archetype": "Excel'de Kin Muhasebecisi",
+      "trigger_tags": ["kindar", "sistemli"],
+      "text": "Sen bir Başak'sın ve kinini bile düzenli tutuyorsun. Excel'inde 'Tarih / Kişi / Olay / Şiddet (1-10) / Affedildi mi? (H)' sütunları var. Pivot tablosu da hazır: En çok kim, hangi ayda, hangi konuda sinir etti. Bir tartışmada 2019'daki bir konuşmayı tarih ve saatiyle hatırlıyorsun, çünkü veri yalan söylemez. Akrepler seni kıskanıyor; onların kini duygusal, seninki ise denetime hazır. Bir gün o tabloyu açacaksın ve karşındaki 'Bunu not mu aldın?' diye kekeleyecek."
+    },
+    {
+      "variation_id": 6,
+      "archetype": "Kimse Sormadan Danışman",
+      "trigger_tags": ["patavatsiz", "elestirel", "bilgic"],
+      "text": "Kimse sormadı ama sen söyledin: 'Bence o adamla boşuna vakit kaybediyorsun.' 'Bu sunumda 3 mantık hatası var.' 'Kek biraz kuru, unu fazla koymuşsun.' Ve en kötüsü, her seferinde haklısın. Eleştiri senin sevgi dilin; bir şeyi düzeltmiyorsan onu umursamıyorsun demektir. İnsanlar sana çekinerek fikir soruyor ama yine de soruyor, çünkü daha doğru bir analiz bulamıyorlar. Sen dünyanın ücretsiz danışmanısın; faturayı ilişkilerin ödüyor."
+    },
+    {
+      "variation_id": 7,
+      "archetype": "Plan Revizyonu v2.3",
+      "trigger_tags": ["hirsli", "sistemli", "isk"],
+      "text": "5 yıllık bir hayat planın var; 10 yıllık planın taslağı da 'B planı (final)(son)(GERÇEK SON)' klasöründe bekliyor. Tatil bile senin için bir proje: Gün gün program, rezervasyon onay e-postaları, yedek restoran listesi. Pazar sabahı ofise gitmeyi 'sessiz verimlilik saati' olarak adlandırıyorsun. Hayat planına uymayan bir şey olduğunda küçük bir kriz yaşayıp hemen 'Plan Revizyonu v2.3' hazırlıyorsun. Sen bir Başak'sın; spontane olmayı bir kez denedin ve onu da önceden planladın."
+    },
+    {
+      "variation_id": 8,
+      "archetype": "Sessiz Analist",
+      "trigger_tags": ["gizemli", "stalker", "elestirel"],
+      "text": "Partide köşeye çekilip herkesi gözlemliyorsun. Kimin kiminle konuşmadığını, kimin bardağını fazla doldurduğunu, hangi çiftin gelirken arabada kavga ettiğini 15 dakikada analiz ettin. Detaylar senden kaçamaz. Arkadaşının yeni sevgilisinin ilk fotoğrafından 'Bu adam ayakkabısını temizlemiyor, demek ki kendine de bakmıyor' teşhisini koyuyor ve haklı çıkıyorsun. Sen bir Başak'sın; dünyanın en meşhur dedektifi seninle tanışsa not defterini kapatıp erken emekli olurdu."
+    },
+    {
+      "variation_id": 9,
+      "archetype": "Görünmez Kahraman",
+      "trigger_tags": ["empatik", "evcimen", "yemek"],
+      "text": "Ev partisinde herkes eğlenirken sen mutfakta bulaşık yıkıyor, buzdolabını düzenliyor ve kimin hangi yemekten az yediğini not ediyorsun. Sen bir Başak'sın ve sevgini hizmetle gösteriyorsun: Hasta arkadaşına çorba, işini yetiştiremeyene Excel şablonu, ayrılan arkadaşına 'Atlatma Planı (PDF)'. Kimse senden yardım istemiyor ama sen zaten yapmış oluyorsun. Teşekkür beklemiyormuş gibi yapıyorsun; ama teşekkür gelmezse onu da not ediyorsun."
+    },
+    {
+      "variation_id": 10,
+      "archetype": "Robot Mod",
+      "trigger_tags": ["soguk", "sistemli"],
+      "text": "Biri sana duygularını açtığında 'Tamam, not aldım, en kısa sürede geri dönüş yapacağım' diyorsun. Duygular senin için düzenlenmesi gereken veriler. Ağlayan arkadaşına sarılmak yerine 'Sorunu 3 maddede özetler misin?' diye soruyorsun. Kalbin var ama klasörlere ayrılmış; acil durumlar dışında açılmıyor. Sen bir Başak'sın. Aslında içinde bir sürü duygu var, sadece onları bir sonraki çeyrek dönem değerlendirmesine erteledin."
+    }
+  ]
+}

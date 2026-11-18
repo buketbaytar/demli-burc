@@ -1,0 +1,65 @@
+{
+  "sign": "kova",
+  "variations": [
+    {
+      "variation_id": 1,
+      "archetype": "Ana Akım Düşmanı",
+      "trigger_tags": ["aykiri", "ego"],
+      "text": "Herkes bir şeyi sevdiği an ondan soğuyorsun: 'Ben onları daha 400 dinlenmeleri varken dinliyordum.' Popüler kültür senin için bir alerjen. Herkes bir diziyi konuşuyorsa 'İzlemedim, izlemeyeceğim de' diyorsun; 3 ay sonra gizlice izleyip 'Aslında ilk sezonu daha iyiydi' yorumu yapıyorsun. Sen bir Kova'sın ve farklı olmak senin için bir kimlik değil, bir yaşam misyonu. Sorun şu ki artık farklı olmak da trend oldu ve sen bundan da kaçmaya çalışıyorsun."
+    },
+    {
+      "variation_id": 2,
+      "archetype": "Prof. Dr. Muhittin'in Asistanı",
+      "trigger_tags": ["tuhaf", "filozof"],
+      "text": "Sokak kedisine 'Prof. Dr. Muhittin' adını koydun ve onunla düzenli olarak jeopolitik tartışıyorsun. Normal insanların 'tuhaf' dediği şeyler senin için 'mantıklı'. Gece 3'te 'Ya ağaçlar birbiriyle konuşuyorsa?' diye düşünüp sabah 5'e kadar akademik makale okuyorsun. Arkadaşların seni tanıştırırken 'Biraz ilginç biri ama çok iyidir' diyor. Sen bir Kova'sın; uzaylı değilsin, sadece Dünya'ya birkaç yüzyıl erken inmiş bir elçisin."
+    },
+    {
+      "variation_id": 3,
+      "archetype": "İnsan Sevmeyen İnsansever",
+      "trigger_tags": ["aykiri", "empatik", "soguk"],
+      "text": "'Ben insanları sevmem' diyorsun, sonra bütün gece yabancıların hayat sorunlarını çözüyorsun. Bu paradoks senin kimlik kartın. İnsanlığı kurtarmak istiyorsun ama insanlarla tek tek konuşmak seni yoruyor. Bir dernek kurabilirsin ama doğum günü partisine gitmek istemiyorsun. Duygusal destek veriyorsun, ama bir mantık profesörü edasıyla: 'Hissettiğin şeyin 3 olası nedeni var.' Ve üçü de doğru. Sen bir Kova'sın: Kalbin büyük, sadece kapısında 'Rahatsız Etmeyin' yazıyor."
+    },
+    {
+      "variation_id": 4,
+      "archetype": "Ters Psikoloji Kurbanı",
+      "trigger_tags": ["aykiri", "inatci"],
+      "text": "'Yap' dendiğinde yapmıyorsun; 'Sakın yapma' dendiğinde üç kat hızla yapıyorsun. İtaat senin sözlüğünde 'başkalarının uydurduğu kural' olarak geçiyor. Annen 'Saçını boyama' dedi, saçın mavi oldu. Patronunun 'Raporu standart formatta hazırla' talebine bir infografik ve 'Standart Format Neden Ölmeli?' manifestosuyla döndün. Sen bir Kova'sın ve en kötüsü şu: Bazen gerçekten haklısın ve bu herkesi delirtiyor."
+    },
+    {
+      "variation_id": 5,
+      "archetype": "Duygu Sunucusu Bakımda",
+      "trigger_tags": ["soguk", "filozof"],
+      "text": "Biri sana duygularını açtığında 'Tamam, not aldım' dedin ve gerçekten not aldın; sonra o duyguların felsefi kökenleri üzerine bir analiz yazdın. Duygularla aranda kalın bir cam var: Görüyorsun, anlıyorsun ama dokunmuyorsun. Biri ağladığında belgesel sunucusu gibi 'Bu çok doğal bir insani tepki' diyorsun. Sen bir Kova'sın; için soğuk değil, sadece kalbin çok yüksek bir rakımda yaşıyor ve oraya oksijen az çıkıyor."
+    },
+    {
+      "variation_id": 6,
+      "archetype": "Uzay İstasyonu Gönüllüsü",
+      "trigger_tags": ["ozgurlukcu", "kacis", "maceraci"],
+      "text": "İlişki ciddileşince 'Kendimi bulmam lazım' dedin ve Nepal'e gittin. Ama bir Yay gibi macera aramaya değil, bir 'sosyal deney' yapmaya gittin. Özgürlüğün kimsenin ayarlayamadığı bir frekans. 'Biz' kelimesi geçtiğinde zihninde bir 'Acil Çıkış' tabelası yanıyor. İdeal partner profilin: 'Beni anlayan ama anlamadığını kabul eden, uzaktan sevmeyi bilen biri.' Henüz bulamadın. Sen bir Kova'sın; sorun yok, yalnızlık zaten en iyi arkadaşın ve sana hiç soru sormuyor."
+    },
+    {
+      "variation_id": 7,
+      "archetype": "Gece 3 Mucidi",
+      "trigger_tags": ["filozof", "hayalperest", "konuskan"],
+      "text": "Gece 03:00'te 'İnsanlık neden hâlâ ışınlanmayı icat etmedi?' konulu 11 dakikalık sesli mesaj attın. Beynin hiçbir zaman uyku moduna geçmiyor. Kafanda 47 icat, 3 ütopik toplum modeli ve 1 'Zamanı nasıl büküriz?' teorisi dönüyor. Arkadaşların sesli mesajlarını 2x hızda dinleyip sonunda birbirlerine 'Ne dedi ya?' diye soruyor. Sen bir Kova'sın; geleceği net görüyorsun, ama bu akşam ne yiyeceğini planlamayı unutuyorsun."
+    },
+    {
+      "variation_id": 8,
+      "archetype": "Bilgi Bombası",
+      "trigger_tags": ["bilgic", "elestirel"],
+      "text": "Sohbete 'Aslında bilimsel olarak öyle değil' diyerek giriyorsun ve sonraki 20 dakika boyunca herkesin inandığı her şeyi çürütüyorsun. Ezberlenmiş doğrular seni sinir ediyor; 'Herkes böyle yapıyor' cümlesi senin için bir argüman değil, bir zayıflık belirtisi. Ansiklopedi maddelerini okuyorsun, ama kaynakçasıyla birlikte. Sen bir Kova'sın; insanlar seninle tartışmayı sevmiyor, çünkü her zaman bir 'Peki ama neden?' daha sorabiliyorsun."
+    },
+    {
+      "variation_id": 9,
+      "archetype": "Saha Antropoloğu",
+      "trigger_tags": ["gizemli", "stalker"],
+      "text": "Partide köşeye çekilip herkesi gözlemledin; ama bir Akrep gibi sır toplamak için değil, insan davranışını bir antropolog gibi incelemek için. Sosyal ortamlar senin için laboratuvar. '3 kişinin gizli ilişkisini çözdüm' diyorsun, ama bunu dedikodu için değil 'grup dinamiklerini anlamak için' yaptın. Sen bir Kova'sın; kimse seni tam olarak tanımıyor, çünkü sen bir bulmaca değil, şifreli bir denklemsin ve çözüm anahtarı sadece sende."
+    },
+    {
+      "variation_id": 10,
+      "archetype": "Çoklu Gerçeklik Yayıncısı",
+      "trigger_tags": ["cok_kisilikli", "durtusel", "sosyal"],
+      "text": "Günde 4 farklı kişilik yaşıyorsun ve hepsi birbirinden aykırı: Sabah aktivist, öğlen bilim insanı, akşam DJ, gece uzaylılarla iletişim kurmaya çalışan amatör astronom. Tek bir kimliğe sığmak sana hapis gibi geliyor. Arkadaş grubun bir kolaj: Bir hacker, bir ressam, bir organik çiftçi ve bir eski manastır öğrencisi. Sen bir Kova'sın; her birine farklı bir 'sen' gösteriyorsun ve hepsinin seni en iyi kendisinin tanıdığını sanması senin gizli eğlencen."
+    }
+  ]
+}

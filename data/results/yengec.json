@@ -1,0 +1,65 @@
+{
+  "sign": "yengec",
+  "variations": [
+    {
+      "variation_id": 1,
+      "archetype": "Ağlayan Dedektif",
+      "trigger_tags": ["duygusal", "stalker"],
+      "text": "Karşımızda tam teşekküllü bir Duygusal Kriz Yengeci var! Gece yarısı yatakta, gözünde yaşlar, elinde telefon; eski sevgilinin yeni sevgilisinin kuzeninin 2016 tatil fotoğraflarına kadar inmişsin. Üzgün olduğun için ağlıyorsun, sonra ağladığın için kendine üzülüp ikinci tura başlıyorsun. Bu döngü sabaha kadar sürüyor ve sabah şiş gözlerle 'Ben iyiyim, hiç takmıyorum' diyorsun. Siber suçlar birimi seni işe almak istedi ama mülakatta duygulanıp 'Bunların hepsini tek başıma yaptım' diye ağladın."
+    },
+    {
+      "variation_id": 2,
+      "archetype": "Yemek Ordusu Komutanı",
+      "trigger_tags": ["yemek", "evcimen"],
+      "text": "Sen Yengeç'sin ve sevgi dilin yemek. Biri 'Aç değilim' dediğinde bunu kişisel bir meydan okuma olarak algılıyorsun. Misafire 5 çeşit, kapıda saklama kabı, bir de 'yolda yersin' poşeti. Evin bir ev değil, aşevi; mutfağın bir mutfak değil, komuta merkezi. 'Bir şey yapmadım ya, öyle ayaküstü' dediğin sofra, normal insanların düğün menüsü. Diyetteki arkadaşların senin evinde diyetlerini bozuyor ama kimse kızmıyor, çünkü senin sarmanın kutsal bir yanı var."
+    },
+    {
+      "variation_id": 3,
+      "archetype": "Yürüyen Anı Kutusu",
+      "trigger_tags": ["nostaljik", "duygusal"],
+      "text": "Senin için 'eskiden' bir zaman dilimi değil, bir ruh hali. Geçen ayın fotoğrafına bakıp 'O zamanlar her şey ne güzeldi' diye iç çekiyorsun. Telefonunda 47.000 fotoğraf var ve hiçbirini silemiyorsun, çünkü bulanık olanların bile 'anısı var'. İlkokul arkadaşının doğum gününü hatırlıyor, eski sevgilinin sevdiği şarkıyı duyunca market kasasında donup kalıyorsun. Çekmecende 2009'dan kalma bir sinema bileti var ve onu saklamanın tek sebebi tamamen duygusal. Sen bir burç değil, bir arşivsin."
+    },
+    {
+      "variation_id": 4,
+      "archetype": "Pasif Agresif Hikâye Sanatçısı",
+      "trigger_tags": ["dramatik", "alingan", "magdur"],
+      "text": "Sevgilinle tartıştın ve tabii ki doğrudan konuşmadın; onun yerine Instagram'a bir başyapıt yükledin: Gri gökyüzü, hüzünlü bir şarkı ve tek bir cümle: 'Bazı insanlar...' Sonra hikâyeyi kimin gördüğünü 14 kez kontrol ettin. O görmediyse daha çok üzüldün, gördü ama yazmadıysa iyice üzüldün. 'Bir şey yok' diyorsun ama her şey var ve sen o 'her şey'in fragmanını sosyal medyada yayınlıyorsun. Kabuğun sert, ama hikâyelerin çok kırılgan."
+    },
+    {
+      "variation_id": 5,
+      "archetype": "Gizli Hesap Defteri",
+      "trigger_tags": ["kindar", "empatik", "magdur"],
+      "text": "Herkesin terapistisin. Arkadaşların gece 2'de seni arıyor, sen sabaha kadar dinliyorsun. Ama kimse senin nasıl olduğunu sormuyor ve sen bunu kimseye söylemiyorsun... sadece zihnindeki bir deftere yazıyorsun. O defterin adı 'Kim Bana Ne Yaptı (2009 - Günümüz)'. Her iyilik, her unutulan doğum günü, her 'görüldü' orada tarihli olarak kayıtlı. Bir gün o defter açılacak ve içindekiler 4 sezonluk bir belgesel dizisi çıkaracak. Sevgin sonsuz, ama hafızan da öyle."
+    },
+    {
+      "variation_id": 6,
+      "archetype": "Kabuklu Kale",
+      "trigger_tags": ["alingan", "soguk", "gizemli"],
+      "text": "Dışarıdan bakan seni sakin, mesafeli, hatta biraz soğuk sanıyor. Ama biz biliyoruz: O kabuğun altında bir duygu volkanı var ve en ufak bir 'Hmm' bile içeride 7 şiddetinde deprem yaratıyor. Alındığında bağırmıyorsun; sadece kabuğuna çekilip 'Bir şey yok' diyorsun. Bu iki kelime, insanlık tarihinin en yanıltıcı ifadesi. Karşındaki ne yaptığını anlamak için 3 gün dedektiflik yapıyor. Sen bir Yengeç'sin ve senin sessizliğin, başkalarının bağırışından daha yüksek sesli."
+    },
+    {
+      "variation_id": 7,
+      "archetype": "Endişeli Ebeveyn Modu",
+      "trigger_tags": ["kaygili", "empatik", "titiz"],
+      "text": "Henüz kimseyi büyütmedin ama zaten herkesin annesisin. Arkadaşın 'Başım ağrıyor' dediğinde çantandan 3 farklı ilaç, 1 termometre ve 'Su içtin mi?' sorusu çıkıyor. Kendi baş ağrını internette aratıp 3 dakikada 4 nadir hastalık teşhisi koyuyorsun, ama başkasına 'Abartma, bir şey yok' diyorsun. Bir mesajı göndermeden önce 6 kez okuyorsun, çünkü 'Ya yanlış anlarsa?' Sevgin şefkatli ama biraz da kasko poliçesi gibi: Her senaryoyu kapsıyor."
+    },
+    {
+      "variation_id": 8,
+      "archetype": "Kıskaçlı Kıskanç",
+      "trigger_tags": ["kiskanc", "stalker", "kindar"],
+      "text": "Sevgilinin yeni takip ettiği hesabı, hesap sahibinin annesinin sosyal medyasına kadar inceledin ve buna 'Sadece merak' diyorsun. Kıskançlığın bir duygu değil, bir araştırma departmanı. Yengeç'in kıskaçlarını küçümseme: Bir şeye sarıldığında bırakmıyorsun ve ona yaklaşan herkesi yan gözle izliyorsun. Üstelik unutmuyorsun; sevgilinin 2021'de bir garsona fazla gülümseyerek 'Teşekkürler' dediğini hâlâ hatırlıyorsun. O garson muhtemelen evlendi. Sen hâlâ dosyayı kapatmadın."
+    },
+    {
+      "variation_id": 9,
+      "archetype": "Koza Yengeci",
+      "trigger_tags": ["konforcu", "evcimen"],
+      "text": "Evin senin kabuğun ve ondan çıkmak için çok iyi bir sebep lazım. 'Hadi dışarı çıkalım' teklifine cevabın hazır: 'Bize gelin, ben makarna yaparım.' Bilet aldığın konseri pijamayla canlı yayından izlemişliğin bile var. Cumartesi gecesi senin için battaniye, sıcak çay, bir aile dizisi ve 'Bugün kimseyle konuşmayacağım' hissi demek. Evine gelenler gitmek istemiyor çünkü orada dünyanın en rahat kanepesi var. Dış dünya senin için bir mekân değil, 'zorunluysa' seçeneği."
+    },
+    {
+      "variation_id": 10,
+      "archetype": "Romantik Senaryo Yazarı",
+      "trigger_tags": ["romantik", "hayalperest", "duygusal"],
+      "text": "İlk buluşmada çocuklarınızın isimlerini, düğün şarkınızı ve yaşlanınca oturacağınız Ege evinin bahçesini kafanda tasarlamışsın. Karşındaki hâlâ menüye bakıyor. Sen aşka atlamıyorsun; aşkın içine taşınıp perdelerini takıyorsun. Her ilişkide 'Bu sefer farklı' diyor ve gerçekten inanıyorsun. Ayrılıktan sonra 3 hafta aynı şarkıyı dinliyor, 4. hafta eski mesajları baştan okuyorsun. Romantik komediler senin için film değil, bir hayat planı. Hem de onaylanmış, imzalanmış."
+    }
+  ]
+}
